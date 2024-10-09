@@ -1,0 +1,2169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>HON</name>
+      <longname>Custom cards set of Flame-chasers in Honkai Impact 3rd</longname>
+      <settype>Commander</settype>
+      <releasedate>2024-06-07</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Aponia the Discipline</name>
+      <text>Flying, vigilance
+        When Aponia the Discipline enters, starting with you, each player apply one effect until this card leaves the battlefield.
+        • All your creatures gains indestructible and hexproof. Skip all your battle steps.
+        • All your creatures gains trample and double-strike. Skip all your draw steps.
+        • You may cast spells from your hand as though they had flash. Skip all your main steps.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature - Human Faerie</type>
+        <maintype>Creature</maintype>
+        <manacost>3WWW</manacost>
+        <cmc>6</cmc>
+        <colors>W</colors>
+        <coloridentity>W</coloridentity>
+        <pt>6/6</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="a6e48ffb-a129-4a80-a72f-00719628746a" picurl="https://lunyaticcat.github.io/cards/creatures/Aponia%20the%20Discipline.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cosmic Juggernaut</name>
+      <text>Menace, trample
+        At the beginning of your upkeep, you may roll the planar die.
+        When Cosmic Juggernaut attacks, target creature phases out.
+        Crew {4}</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Artifact - Vehicle</type>
+        <maintype>Artifact</maintype>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <colors>WB</colors>
+        <coloridentity>WB</coloridentity>
+        <pt>5/6</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="19a64bf9-f878-4500-af2c-00110aa1a1d7" picurl="https://lunyaticcat.github.io/cards/artifacts/Cosmic%20Juggernaut.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Doctor MEI</name>
+      <text>Vanishing 4
+        You may look at the top card of your library any time.
+        You may cast a Human or artifact spell from the top of your library once per turn.
+        {w}{u}{b}{r}{g}: Search your library for a Human or artifact spell and reveal that card. Shuffle your library, then put the card on top of it.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature - Human Scientist</type>
+        <maintype>Creature</maintype>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <colors>U</colors>
+        <coloridentity>WUBRG</coloridentity>
+        <pt>1/6</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="4e1c9726-e72a-49e3-ae49-cc4217b72f14" picurl="https://lunyaticcat.github.io/cards/commander/Doctor%20MEI.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Eden the Gold</name>
+      <text>When Eden the Gold enters the battlefield, each player creates a colorless 1/1 Music Note creature token with 'when this creature leaves the battlefield, if there are no other Music Note tokens on the battlefield, each other player sacrifices a land'.
+        Eden's power and toughness each equal the number of Music Note tokens on the battlefield.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature - Human Bard</type>
+        <maintype>Creature</maintype>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <colors>RW</colors>
+        <coloridentity>RW</coloridentity>
+        <pt>*/*</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="70d2a2e7-3a14-4c66-b624-9f77e75ef35a" picurl="https://lunyaticcat.github.io/cards/creatures/Eden%20the%20Gold.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Elysia the Ego</name>
+      <text>Reach
+        {X},{T}, Choose a creature type: Create an X/X colorless artifact creature token with the chosen type.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature - Human Elf</type>
+        <maintype>Creature</maintype>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <colors>GU</colors>
+        <coloridentity>GU</coloridentity>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="ac2418fb-bacb-4dc8-9ecb-de5c3e149634" picurl="https://lunyaticcat.github.io/cards/creatures/Elysia%20the%20Ego.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Elysian Realm</name>
+      <text>When a creature you control should leave the battlefield, exile it instead.
+        {T}: Create a copy of target creature exiled by Elysian Realm, except it has Defender and is an Illusion in addition to its other types.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="fa3d663d-6805-4050-a261-ba01d2b17f93" picurl="https://lunyaticcat.github.io/cards/artifacts/Elysian%20Realm.jpeg">HON</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Griseo the Star</name>
+      <text>Whenever you cast a spell, create a 0/X Canvas creature token, where X is the amount of mana spent to cast that spell.
+        {T}: Target Canvas creature becomes a copy of another target creature, except it's a Painting creature and it's toughness is X, where X is the toughness of the canvas creature.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature - Human Child</type>
+        <maintype>Creature</maintype>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <pt>0/2</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="a047c736-7cb1-4a80-ae6b-cb62196e3bf1" picurl="https://lunyaticcat.github.io/cards/creatures/Griseo%20the%20Star.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Honkai Zombification</name>
+      <text>Destroy target creature. It can't be regenerated. Its controller creates a goaded 3/3 colorless Beast creature token.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="ac2418fb-bacb-4dc8-9ecb-de5c3e149634" picurl="https://lunyaticcat.github.io/cards/instant-sorcery/Honkai%20Zombification.jpeg">HON</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Hua the Vicissitude</name>
+      <text>First-strike
+        If Hua the Vicissitude would leave the battlefield, exile it instead with 3 time counters on it, if she doesn't have suspend she gain suspend.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature - Human Phoenix Monk</type>
+        <maintype>Creature</maintype>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="f120d684-9223-4384-98a2-5fe7b20d00c7" picurl="https://lunyaticcat.github.io/cards/creatures/Hua%20the%20Vicissitude.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kalpas the Decimation</name>
+      <text>Trample
+        At the beginning of your combat phase, create a 0/1 colorless Ash artifact creature token.
+        Whenever Kalpas the Decimation destroys a creature in combat, each player sacrifices a permanent and discards a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature - Human Alien</type>
+        <maintype>Creature</maintype>
+        <manacost>4BR</manacost>
+        <cmc>6</cmc>
+        <colors>BR</colors>
+        <coloridentity>BR</coloridentity>
+        <pt>5/5</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="78fea8fb-9f26-4cb9-9969-e04c5eef51f6" picurl="https://lunyaticcat.github.io/cards/creatures/Kalpas%20the%20Decimation.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kevin the Deliverance</name>
+      <text>Indestructible, vigilance
+        Whenever Kevin the Deliverance enters the battlefield, you may search your library for a Human creature card, reveal it, put it in your hand, then shuffle.
+        At the beginning of your upkeep, you may exile target creature.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature - Human Soldier</type>
+        <maintype>Creature</maintype>
+        <manacost>8WU</manacost>
+        <cmc>10</cmc>
+        <colors>WU</colors>
+        <coloridentity>WU</coloridentity>
+        <pt>10/10</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="d9228c7a-101b-470e-825e-660be8d99968" picurl="https://lunyaticcat.github.io/cards/creatures/Kevin%20the%20Deliverance.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kosma the Daybreak</name>
+      <text>Haste, provoke
+        Whenever a creature dealt combat damage by Kosma would die this turn, exile it instead. Kosma has all abilities of creatures exiled this way.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature - Human Demon</type>
+        <maintype>Creature</maintype>
+        <manacost>2RGW</manacost>
+        <cmc>5</cmc>
+        <colors>RGW</colors>
+        <coloridentity>RGW</coloridentity>
+        <pt>5/4</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="0d346804-8b56-43bf-a05f-1bb4587e9fee" picurl="https://lunyaticcat.github.io/cards/creatures/Kosma%20the%20Daybreak.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mobius the Infinity</name>
+      <text>Persist, infect
+        1,T, Exile a non-Human creature card from any graveyard : Target Human creature gains the exiled card's abilities in addition to its own.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature - Human Snake</type>
+        <maintype>Creature</maintype>
+        <manacost>{U/P}BG</manacost>
+        <cmc>3</cmc>
+        <colors>BG</colors>
+        <coloridentity>UBG</coloridentity>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="d93d9f01-285b-4c6e-bb0e-578d339efc81" picurl="https://lunyaticcat.github.io/cards/creatures/Mobius%20the%20Infinity.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pardofelis the Reverie</name>
+      <text>Reach
+        {T}, Exile the top card of target opponent’s library: Each opponent bid mana. You start the bidding with a bid of {0}. The player who bids the most may cast the exiled card without paying its mana cost. Create a number of Treasure tokens equal to the highest bid.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature - Human Cat</type>
+        <maintype>Creature</maintype>
+        <manacost>{R/B}G</manacost>
+        <cmc>2</cmc>
+        <colors>RBG</colors>
+        <coloridentity>RBG</coloridentity>
+        <pt>1/3</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="0e712aa1-258f-4131-aa4a-addf4f653636" picurl="https://lunyaticcat.github.io/cards/creatures/Pardofelis%20the%20Reverie.jpeg">HON</set>
+      <related>Pardofelis's Treasure</related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Canvas</name>
+      <text></text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Token Creature - Canvas</type>
+        <maintype>Creature</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="e40edcb9-076c-41e2-a8a3-18b8f5590e14" picurl="https://lunyaticcat.github.io/cards/etc/Canvas.jpeg">HON</set>
+      <reverse-related>Griseo the Star</reverse-related>
+      <token>1</token>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Treasure</name>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Token Artifact - Treasure</type>
+        <maintype>Artifact</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="38964b22-72eb-47db-8cfd-33cb9e3f6a90" picurl="https://lunyaticcat.github.io/cards/etc/Treasure.jpeg">HON</set>
+      <reverse-related>Pardofelis the Reverie</reverse-related>
+      <token>1</token>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Project ARK</name>
+      <text>Flying
+        Crew 1
+        When Project ARK deals combat damage to a player, draw a card.
+        You may play an additional land each turn.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Artifact - Vehicle</type>
+        <maintype>Artifact</maintype>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <colors>GU</colors>
+        <coloridentity>GU</coloridentity>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="5b155e18-de31-4011-aa81-d458d25f8345" picurl="https://lunyaticcat.github.io/cards/artifacts/Project%20ARK.jpeg">HON</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Quantic Transcendence</name>
+      <text>When Quantic Transcendence enter the battlefield, put a leaf counter on each other non-land permanent you control. When a permanent with a leaf counter leaves the battlefield, return it to the battlefield under its owners control.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="d04c1cd0-3662-4052-9856-3f5415bc63f0" picurl="https://lunyaticcat.github.io/cards/enchantments/Quantic%20Transcendence.jpeg">HON</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Sakura the Setsuna</name>
+      <text>Double strike
+        Bushido 1
+        At the end of your post-combat main phase, if Sakura the Setsuna dealt damage to a player, tap up to one target creature that player control, put a stun counter on it.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature - Human Fox Assassin</type>
+        <maintype>Creature</maintype>
+        <manacost>2UUR</manacost>
+        <cmc>5</cmc>
+        <colors>UR</colors>
+        <coloridentity>UR</coloridentity>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="e7cf9147-dab4-42f1-9892-7dc7abd2d532" picurl="https://lunyaticcat.github.io/cards/creatures/Sakura%20the%20Setsuna.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Su the Bodhi</name>
+      <text>All players may cast spells as though they had Assist.
+        Your opponents play with their hands revealed.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature - Human Doctor</type>
+        <maintype>Creature</maintype>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <colors>GU</colors>
+        <coloridentity>GU</coloridentity>
+        <pt>3/5</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="32230d50-a5d4-427b-8a15-b8e3da55b818" picurl="https://lunyaticcat.github.io/cards/creatures/Su%20the%20Bodhi.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Vill-V the Helix</name>
+      <text>Madness 3R
+        As long as Vill-V the Helix is on the battlefield, each artifact is an artifact creature with base power and toughness each equal to its mana value or 1/1, whichever is greater, and is goaded.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature - Human Artificer</type>
+        <maintype>Creature</maintype>
+        <manacost>3UR</manacost>
+        <cmc>5</cmc>
+        <colors>UR</colors>
+        <coloridentity>UR</coloridentity>
+        <pt>5/5</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="355e246a-18a0-41ff-bd2d-d254d869c57e" picurl="https://lunyaticcat.github.io/cards/creatures/Vill-V%20the%20Helix.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Arcane Signet</name>
+      <text>{T}: Add one mana of any color in your commander's color identity.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="8b13e91e-948e-4bc4-80e7-840fe73dec7a" picurl="https://lunyaticcat.github.io/cards/artifacts/Arcane%20Signet.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bloodstained Mire</name>
+      <text>T, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="49c5c1e8-5a9c-460e-a285-42cd98f1d106" picurl="https://lunyaticcat.github.io/cards/lands/Bloodstained%20Mire.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Chromatic Lantern</name>
+      <text>Lands you control have '{T}: Add one mana of any color.'
+        {T}: Add one mana of any color.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="da4c311e-decf-478e-85ab-0a77e296f636" picurl="https://lunyaticcat.github.io/cards/artifacts/Chromatic%20Lantern.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>City of Brass</name>
+      <text>Whenever City of Brass becomes tapped, it deals 1 damage to you.
+        {T}: Add one mana of any color.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="d50c3a9d-4188-4f9b-8351-cefe7fc24cd1" picurl="https://lunyaticcat.github.io/cards/lands/City%20of%20Brass.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Command Tower</name>
+      <text>{T}: Add one mana of any color in your commander's color identity.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="dd1c21cf-e98f-4ef2-b8bb-97af9c65df4a" picurl="https://lunyaticcat.github.io/cards/lands/Command%20Tower.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Exotic Orchard</name>
+      <text>{T}: Add one mana of any color that a land an opponent controls could produce.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="39dd4b59-0fb8-4e64-a00c-f4d71e514316" picurl="https://lunyaticcat.github.io/cards/lands/Exotic%20Orchard.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Flooded Strand</name>
+      <text>T, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="073efea7-9564-4c42-94db-643019fc1fea" picurl="https://lunyaticcat.github.io/cards/lands/Flooded%20Strand.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Forbidden Orchard</name>
+      <text>{T}: Add one mana of any color.
+        Whenever you tap Forbidden Orchard for mana, target opponent creates a 1/1 colorless Spirit creature token.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="2506a700-e9bd-4987-9cf1-4a58e7e0d9f6" picurl="https://lunyaticcat.github.io/cards/lands/Forbidden%20Orchard.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Indatha Triome</name>
+      <text>({T}: Add W, B, or G.)
+        Indatha Triome enters the battlefield tapped.
+        Cycling 3 (3, Discard this card: Draw a card.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land - Plains Swamp Forest</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="19e3140f-4270-4cef-804d-9820fd0824b6" picurl="https://lunyaticcat.github.io/cards/lands/Indatha%20Triome.jpeg">HON</set>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+    </card>
+    <card>
+      <name>Island</name>
+      <text>({T}: Add {U}.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land - Island</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="0377fbcb-d073-4bc3-b00a-8da25d45db87" picurl="https://lunyaticcat.github.io/cards/lands/Island.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Ketria Triome</name>
+      <text>({T}: Add {G}, {U}, or {R}.)
+        Ketria Triome enters the battlefield tapped.
+        Cycling 3 (3, Discard this card: Draw a card.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land - Forest Island Mountain</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="d25d0c13-4e4b-451d-9148-770fe9e6c16e" picurl="https://lunyaticcat.github.io/cards/lands/Ketria%20Triome.jpeg">HON</set>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <text>({T}: Add {R}.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Basic Land - Mountain</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="36bf67a7-5af4-4546-ad0c-1d1b1f392840" picurl="https://lunyaticcat.github.io/cards/lands/Mountain.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Path of Ancestry</name>
+      <text>Path of Ancestry enters the battlefield tapped.
+        {T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="95f64323-7131-42e1-b08f-3a59b43cbd38" picurl="https://lunyaticcat.github.io/cards/lands//Path%20of%20Ancestry.jpeg">HON</set>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+    </card>
+    <card>
+      <name>Plains</name>
+      <text>({T}: Add {W}.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Basic Land - Plains</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="efd252ef-b0ac-4061-8f7f-48ab1276803f" picurl="https://lunyaticcat.github.io/cards/lands/Plains.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Polluted Delta</name>
+      <text>{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="50fa06f8-36d0-4fb2-bff5-518ef5ab2ddd" picurl="https://lunyaticcat.github.io/cards/lands/Polluted%20Delta.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Raugrin Triome</name>
+      <text>({T}: Add {U}, {R}, or {W}.)
+        Raugrin Triome enters the battlefield tapped.
+        Cycling 3 (3, Discard this card: Draw a card.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land - Island Mountain Plains</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="3c2a9eaf-a4c4-4a0f-abbb-06eac8591d34" picurl="https://lunyaticcat.github.io/cards/lands/Raugrin%20Triome.jpeg">HON</set>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+    </card>
+    <card>
+      <name>Savai Triome</name>
+      <text>({T}: Add {R}, {W}, or {B}.)
+        Savai Triome enters the battlefield tapped.
+        Cycling 3 (3, Discard this card: Draw a card.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land - Mountain Plains Swamp</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="923f9920-e273-4045-8ddd-70b6149c9d23" picurl="https://lunyaticcat.github.io/cards/lands/Savai%20Triome.jpeg">HON</set>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+    </card>
+    <card>
+      <name>Scalding Tarn</name>
+      <text>{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="abd85cd2-72cb-43a9-bc7f-9877bffb9cc7" picurl="https://lunyaticcat.github.io/cards/lands/Scalding%20Tarn.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Sol Ring</name>
+      <text>{T}: Add CC.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="682a5953-9286-48a1-bfc6-a5fdb3c138bb" picurl="https://lunyaticcat.github.io/cards/artifacts/Sol%20Ring.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <text>({T}: Add {B}.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Basic Land - Swamp</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="995f1f3c-2290-4474-929a-a54800b2dd90" picurl="https://lunyaticcat.github.io/cards/lands/Swamp.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Wooded Foothills</name>
+      <text>{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="28c757fb-4c4a-4a98-9b7c-1caa6f121e69" picurl="https://lunyaticcat.github.io/cards/lands/Wooded%20Foothills.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Zagoth Triome</name>
+      <text>({T}: Add {B}, {G}, or {U}.)
+        Zagoth Triome enters the battlefield tapped.
+        Cycling 3 (3, Discard this card: Draw a card.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land - Swamp Forest Island</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="01e909d0-18ae-4de1-923f-296d95a4782d" picurl="https://lunyaticcat.github.io/cards/lands/Zagoth%20Triome.jpeg">HON</set>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+    </card>
+    <card>
+      <name>7 Thunders of Retribution</name>
+      <text>Reach
+        As long as 7 Thunders of Retribution is attached to a creature, spells you cast of that creature's color cost 1 less to cast.
+        Reconfigure {2}</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Artifact Creature - Equipment</type>
+        <maintype>Artifact</maintype>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+        <pt>3/2</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="609c39f1-4d92-486e-a1e7-f44876d71e89" picurl="https://lunyaticcat.github.io/cards/artifacts/7%20Thunders%20of%20Retribution.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Parallel Lives</name>
+      <text>If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <manacost>3G</manacost>
+        <cmc>3</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="b4225d2e-9e83-4801-b99f-ad8711ed113f" picurl="https://lunyaticcat.github.io/cards/enchantments/Parallel%20Lives.jpeg">HON</set>
+      <tablerow>1</tablerow>
+      
+      
+    </card>
+    <card>
+      <name>Fractured Identity</name>
+      <text>Exile target nonland permanent. Each player other than its controller creates a token that's a copy of it.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <colors>WU</colors>
+        <coloridentity>WU</coloridentity>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="090e026c-75c8-4a3a-bf47-4c926ce4036f" picurl="https://lunyaticcat.github.io/cards/instant-sorcery/Fractured%20Identity.jpeg">HON</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Spara's Headquarters</name>
+      <text>({T}: Add {G}, {W}, or {U}.)
+        Spara's Headquarters enters the battlefield tapped.
+        Cycling 3 (3, Discard this card: Draw a card.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land - Forest Plains Island</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="94f51e65-4a58-4fc0-b950-3ab3ec1b3711" picurl="https://lunyaticcat.github.io/cards/lands/Spara%e2%80%99s%20Headquarters.jpeg">HON</set>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+    </card>
+    <card>
+      <name>Raffine's Tower</name>
+      <text>({T}: Add {W, {U}, or {B}.)
+        Raffine's Tower enters the battlefield tapped.
+        Cycling 3 (3, Discard this card: Draw a card.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land - Plains Island Swamp</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="0c3fc772-46c8-4abd-976a-6712448db5ed" picurl="https://lunyaticcat.github.io/cards/lands/Raffine%e2%80%99s%20Tower.jpeg">HON</set>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+    </card>
+    <card>
+      <name>Xander's Lounge</name>
+      <text>({T}: Add {U}, {B}, or {R}.)
+        Xander's Lounge enters the battlefield tapped.
+        Cycling 3 (3, Discard this card: Draw a card.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land - Island Swamp Mountain</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="25805f4d-d68e-4b51-a3eb-60038aeb5e54" picurl="https://lunyaticcat.github.io/cards/lands/Xander%e2%80%99s%20Lounge.jpeg">HON</set>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+    </card>
+    <card>
+      <name>Ziatora's Proving Ground</name>
+      <text>({T}: Add {B}, {R}, or {G}.)
+        Ziatora's Proving Ground enters the battlefield tapped.
+        Cycling 3 (3, Discard this card: Draw a card.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land - Swamp Mountain Forest</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="7837b62a-d2e5-4450-8089-11594bd10e1e" picurl="https://lunyaticcat.github.io/cards/lands/Ziatora%e2%80%99s%20Proving%20Ground.jpeg">HON</set>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+    </card>
+    <card>
+      <name>Jetmir's Garden</name>
+      <text>({T}: Add {R}, {G}, or {W}.)
+        Jetmir's Garden enters the battlefield tapped.
+        Cycling 3 (3, Discard this card: Draw a card.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land - Mountain Forest Plains</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="1513289d-d8f5-4cd2-a7d8-72cecba9250d" picurl="https://lunyaticcat.github.io/cards/lands/Jetmir%e2%80%99s%20Garden.jpeg">HON</set>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+    </card>
+    <card>
+      <name>Forest</name>
+      <text>({T}: Add {G}.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Basic Land - Forest</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="58b2a323-b65b-4149-be69-b4133e51e87b" picurl="https://lunyaticcat.github.io/cards/lands/Forest.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Arid Mesa</name>
+      <text>{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="18c30d96-de8a-4986-8208-a8fd31d6db50" picurl="https://lunyaticcat.github.io/cards/lands/Arid%20Mesa.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Misty Rainforest</name>
+      <text>{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="11d21e3c-430a-458f-b96a-5efec2fd5d89" picurl="https://lunyaticcat.github.io/cards/lands/Misty%20Rainforest.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Verdant Catacombs</name>
+      <text>{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="c776297a-edec-41a3-bd2a-205b39c09dbc" picurl="https://lunyaticcat.github.io/cards/lands/Verdant%20Catacombs.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Windswept Heath</name>
+      <text>{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="619052c9-64dc-46a4-875c-7c88eb90ffe4" picurl="https://lunyaticcat.github.io/cards/lands/Windswept%20Heath.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Marsh Flats</name>
+      <text>{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="0b35e7a7-60cf-4e4a-b102-5b22a1232a2c" picurl="https://lunyaticcat.github.io/cards/lands/Marsh%20Flats.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Project STIGMA</name>
+      <text>Exile all creatures without a stigmata counter.
+        Suspend 3 {-} {3}{b}
+        Whenever a time counter is removed from Project STIGMA while it's exiled, every player may put a stigmata counter on a Human creature.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <colors>WB</colors>
+        <coloridentity>WBU</coloridentity>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="9990f6c8-1e09-42da-a0ed-e760f8a30b63" picurl="https://lunyaticcat.github.io/cards/instant-sorcery/Project%20STIGMA.jpeg">HON</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Fenghuang Down</name>
+      <text>Suspend 3 {-} {b}
+      {t}: Take a card from target opponent library and put it in their hand, then they do the same for you. Exile ~ with three time counters on it.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>2B</manacost>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+        <cmc>3</cmc>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="864d34e7-7df4-4934-8521-ec5df6552b4f" picurl="https://lunyaticcat.github.io/cards/artifacts/Fenghuang%20Down.jpeg">HON</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Oath of Judah</name>
+      <text>{4}, {t} : Until next turn, target player must pay twice as much mana to cast spells.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>3WB</manacost>
+        <colors>WB</colors>
+        <coloridentity>WB</coloridentity>
+        <cmc>5</cmc>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="6daf48f9-3092-4366-a252-84ebc9a2454d" picurl="https://lunyaticcat.github.io/cards/artifacts/Oath%20of%20Judah.jpeg">HON</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Sea of Quanta</name>
+      <text>Sea of Quanta enters the battlefield tapped.
+        {X}, {T}: Add X plus one mana of any one color. X can't be greater than 3.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Land</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="f594dd39-166c-4eed-bbdc-6caa1e6b06d5" picurl="https://lunyaticcat.github.io/cards/lands/Sea%20of%20Quanta.jpeg">HON</set>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+    </card>
+    <card>
+      <name>The Great Hibernation</name>
+      <text>When The Great Hibernation enters, all creatures become a 0/1 Cryonized Creature until The Great Hibernation leaves the battlefield.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>2WB</manacost>
+        <colors>WB</colors>
+        <coloridentity>WB</coloridentity>
+        <cmc>4</cmc>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="17e96f15-4e91-4cc8-9b98-92e34bbf5a1d" picurl="https://lunyaticcat.github.io/cards/artifacts/The%20Great%20Hibernation.jpeg">HON</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Unnamed Satellite</name>
+      <text>{2}, {T}: Create a colorless Waste basic land token.
+        {2}, {T}: Transform target Waste basic land you control into a basic land of your choice.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="4d3c60c9-2379-435f-a2a1-703d83673914" picurl="https://lunyaticcat.github.io/cards/artifacts/Unnamed%20Satellite.jpeg">HON</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Judgment Of Shamash</name>
+      <text>Equipped creature gets +5/+0 and has trample.
+        Whenever equipped creature attacks, it deals 5 damage to each creature blocking it. At the beginning of your next end step, destroy equipped creature.
+        Equip 3RR</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Artifact - Equipment</type>
+        <maintype>Artifact</maintype>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="918ea184-f35a-41ad-82e1-acbe0aacbb11" picurl="https://lunyaticcat.github.io/cards/artifacts/Judgment%20Of%20Shamash.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Star of Eden</name>
+      <text>{t}, Choose one :
+        - When a creature with flying attacks, it loses flying until end of turn.
+        - When a creature attacks, it gains flying until end of turn.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="68dda9c0-fd9b-4448-8c8d-832ba59d1768" picurl="https://lunyaticcat.github.io/cards/artifacts/Star%20of%20Eden.jpeg">HON</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>White Flower</name>
+      <text>Equipped creature gets +1/+2.
+        Whenever equipped creature deals combat damage, create a 1/1 colorless Human creature token.
+        When 3 token have been created by White Flower, transform it.
+        Equip {2}{w}</text>
+      <prop>
+        <layout>transform</layout>
+        <side>front</side>
+        <type>Legendary Artifact - Equipement</type>
+        <maintype>Artifact</maintype>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <colors>W</colors>
+        <coloridentity>W</coloridentity>
+        <related>Black Abyss</related>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="7ac6bc41-a7f1-4a3f-af12-49e8cc63196d" picurl="https://lunyaticcat.github.io/cards/artifacts/White%20Flower.jpeg">HON</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Black Abyss</name>
+      <text>Equipped creature gets +2/+1 and has wither 2.
+        Whenever equipped creature attacks, you may destroy target creature.
+        If a creature would leave the battlefield due to an ability of Black Abyss, exile it instead.
+        Equip {2}{b}</text>
+      <prop>
+        <layout>transform</layout>
+        <side>back</side>
+        <type>Legendary Artifact - Equipement</type>
+        <maintype>Artifact</maintype>
+        <coloridentity>B</coloridentity>
+        <reverse-related>White Flower</reverse-related>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="e1b81b79-2148-4cb3-927f-62b0e2a54e42" picurl="https://lunyaticcat.github.io/cards/artifacts/Black%20Abyss.jpeg">HON</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Xuanyuan Sword</name>
+      <text>Hexproof
+        At the beginning of your upkeep, create a token that is a copy of Xuanyuan Sword.
+        {t}: Sacrifice Xuanyuan Sword, add one mana of any color. </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="78952af0-c123-4a4f-b9db-a2856afe97b1" picurl="https://lunyaticcat.github.io/cards/artifacts/Xuanyuan%20Sword.jpeg">HON</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Jizo Mitama</name>
+      <text>When Jizo Mitama enters the battlefield, attach it to target creature.
+        Equipped creature gets +2/+1 and Bushido 1.
+        Take control of equipped creature.
+        Equip {2}{u}</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Artifact - Equipement</type>
+        <maintype>Artifact</maintype>
+        <manacost>5R</manacost>
+        <cmc>6</cmc>
+        <colors>R</colors>
+        <coloridentity>RU</coloridentity>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="3e10fa87-dad3-4e24-bd50-f4f9be087de7" picurl="https://lunyaticcat.github.io/cards/artifacts/Jizo%20Mitama.jpeg">HON</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Klein</name>
+      <text>Artifacts you control have hexproof.
+        {g}: Regenerate target creature.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Creature - Human</type>
+        <maintype>Creature</maintype>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <pt>1/3</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="ae766db1-a36b-4ac4-ae9e-eb6851ce2bcc" picurl="https://lunyaticcat.github.io/cards/creatures/Klein.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prometheus</name>
+      <text>{T}, Exile Prometheus: You control target player's next upkeep. During that turn, you may cast spells as though they had flash.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Artifact Creature - Human</type>
+        <maintype>Creature</maintype>
+        <manacost>6BB</manacost>
+        <cmc>8</cmc>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+        <pt>4/4</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="c56ed739-c462-49d8-8412-e47be82892db" picurl="https://lunyaticcat.github.io/cards/creatures/Prometheus.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Himeko</name>
+      <text>At your unkeep, put a +1/+1 counter on target Human creature.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Creature - Human</type>
+        <maintype>Creature</maintype>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+        <pt>3/3</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="28396acb-a60c-4afa-a537-41c57c80a1f0" picurl="https://lunyaticcat.github.io/cards/creatures/Himeko.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+        <name>Avacyn's Collar</name>
+        <text>  Equipped creature gets +1/+0 and has vigilance.
+          Whenever equipped creature dies, if it was a Human, create a 1/1 white Spirit creature token with flying.
+          Equip {2}
+        </text>
+        <prop>
+            <format-vintage>legal</format-vintage>
+            <format-brawl>legal</format-brawl>
+            <cmc>1</cmc>
+            <format-duel>legal</format-duel>
+            <maintype>Artifact</maintype>
+            <manacost>1</manacost>
+            <format-legacy>legal</format-legacy>
+            <format-commander>legal</format-commander>
+            <format-penny>legal</format-penny>
+            <type>Artifact — Equipment</type>
+            <format-timeless>legal</format-timeless>
+            <format-modern>legal</format-modern>
+            <layout>normal</layout>
+            <format-oathbreaker>legal</format-oathbreaker>
+            <format-historic>legal</format-historic>
+            <side>front</side>
+            <format-gladiator>legal</format-gladiator>
+        </prop>
+        <set rarity="uncommon" uuid="50321d16-90a3-4ded-b6d4-e3446bcf577a" picurl="https://lunyaticcat.github.io/cards/artifacts/Avacyn%E2%80%99s%20Collar%20(Vita%E2%80%99s%20collar).jpeg">HON</set>
+        <tablerow>1</tablerow>
+    </card>
+    <card>
+        <name>The Prydwen, Steel Flagship</name>
+        <text>  Flying
+          Whenever another nontoken artifact enters the battlefield under your control, create a 2/2 white Human Knight creature token with &quot;This creature gets +2/+2 as long as an artifact entered the battlefield under your control this turn.&quot;
+          Crew 2
+        </text>
+        <prop>
+            <format-vintage>legal</format-vintage>
+            <cmc>6</cmc>
+            <coloridentity>W</coloridentity>
+            <format-duel>legal</format-duel>
+            <maintype>Artifact</maintype>
+            <manacost>4WW</manacost>
+            <format-legacy>legal</format-legacy>
+            <format-commander>legal</format-commander>
+            <colors>W</colors>
+            <type>Legendary Artifact — Vehicle</type>
+            <layout>normal</layout>
+            <format-oathbreaker>legal</format-oathbreaker>
+            <side>front</side>
+            <pt>6/6</pt>
+        </prop>
+        <set rarity="rare" uuid="09f16c46-7086-400e-b5e4-9f32f40a087d" picurl="https://lunyaticcat.github.io/cards/artifacts/The%20Prydwen,%20Steel%20Flagship%20(The%20Hyperion,%20Anti-Entropy%E2%80%99s%20Battleship).jpeg">HON</set>
+        <tablerow>1</tablerow>
+    </card>
+    <card>
+        <name>Urza's Incubator</name>
+        <text>  As Urza's Incubator enters the battlefield, choose a creature type.
+          Creature spells of the chosen type cost {2} less to cast.
+        </text>
+        <prop>
+            <format-vintage>legal</format-vintage>
+            <cmc>3</cmc>
+            <format-duel>legal</format-duel>
+            <maintype>Artifact</maintype>
+            <manacost>3</manacost>
+            <format-premodern>legal</format-premodern>
+            <format-legacy>legal</format-legacy>
+            <format-predh>legal</format-predh>
+            <format-commander>legal</format-commander>
+            <type>Artifact</type>
+            <format-modern>legal</format-modern>
+            <layout>normal</layout>
+            <format-oathbreaker>legal</format-oathbreaker>
+            <side>front</side>
+        </prop>
+        <set rarity="rare" uuid="9caca4c5-4261-429f-b2d5-3b93084ed5e2" picurl="https://lunyaticcat.github.io/cards/artifacts/Urza%E2%80%99s%20Incubator%20(Otto%E2%80%99s%20Incubator).jpeg">HON</set>
+        <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Grand Abolisher</name>
+      <text>During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <format-pioneer>legal</format-pioneer>
+          <format-standard>legal</format-standard>
+          <format-future>legal</format-future>
+          <format-brawl>legal</format-brawl>
+          <cmc>2</cmc>
+          <coloridentity>W</coloridentity>
+          <format-duel>legal</format-duel>
+          <maintype>Creature</maintype>
+          <manacost>WW</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-commander>legal</format-commander>
+          <format-standardbrawl>legal</format-standardbrawl>
+          <colors>W</colors>
+          <type>Creature — Human Cleric</type>
+          <format-timeless>legal</format-timeless>
+          <format-modern>legal</format-modern>
+          <layout>normal</layout>
+          <format-explorer>legal</format-explorer>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <format-historic>legal</format-historic>
+          <side>front</side>
+          <pt>2/2</pt>
+          <format-alchemy>legal</format-alchemy>
+          <format-gladiator>legal</format-gladiator>
+      </prop>
+      <set rarity="mythic" uuid="7abddb06-1cca-4f23-8956-cbf0bf6b7310" picurl="https://lunyaticcat.github.io/cards/creatures/Grand%20Abolisher%20(Otto%20Apocalypse).jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+        <name>Careful Cultivation</name>
+        <text>  Enchant artifact or creature
+          As long as enchanted permanent is a creature, it gets +1/+3 and has reach and &quot;{T}: Add {G}{G}.&quot;
+          Channel — {1}{G}, Discard Careful Cultivation: Create a 1/1 green Human Monk creature token with &quot;{T}: Add {G}.&quot;
+        </text>
+        <prop>
+            <format-vintage>legal</format-vintage>
+            <format-pioneer>legal</format-pioneer>
+            <format-standard>legal</format-standard>
+            <format-brawl>legal</format-brawl>
+            <cmc>3</cmc>
+            <coloridentity>G</coloridentity>
+            <format-duel>legal</format-duel>
+            <maintype>Enchantment</maintype>
+            <manacost>2G</manacost>
+            <format-legacy>legal</format-legacy>
+            <format-commander>legal</format-commander>
+            <format-standardbrawl>legal</format-standardbrawl>
+            <format-penny>legal</format-penny>
+            <colors>G</colors>
+            <type>Enchantment — Aura</type>
+            <format-timeless>legal</format-timeless>
+            <format-paupercommander>legal</format-paupercommander>
+            <format-modern>legal</format-modern>
+            <layout>normal</layout>
+            <format-explorer>legal</format-explorer>
+            <format-oathbreaker>legal</format-oathbreaker>
+            <format-historic>legal</format-historic>
+            <side>front</side>
+            <format-gladiator>legal</format-gladiator>
+            <format-pauper>legal</format-pauper>
+        </prop>
+        <set rarity="common" uuid="c8daf479-0463-4fec-9d6d-243dea81f534" picurl="https://lunyaticcat.github.io/cards/enchantments/Careful%20Cultivation.jpeg">HON</set>
+        <tablerow>1</tablerow>
+    </card>
+    <card>
+        <name>Leonin Abunas</name>
+        <text>Artifacts you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)</text>
+        <prop>
+            <format-vintage>legal</format-vintage>
+            <cmc>4</cmc>
+            <coloridentity>W</coloridentity>
+            <format-duel>legal</format-duel>
+            <maintype>Creature</maintype>
+            <manacost>3W</manacost>
+            <format-legacy>legal</format-legacy>
+            <format-predh>legal</format-predh>
+            <format-commander>legal</format-commander>
+            <format-penny>legal</format-penny>
+            <colors>W</colors>
+            <type>Creature — Cat Cleric</type>
+            <format-modern>legal</format-modern>
+            <layout>normal</layout>
+            <format-oathbreaker>legal</format-oathbreaker>
+            <side>front</side>
+            <pt>2/5</pt>
+        </prop>
+        <set rarity="rare" uuid="d6507ef6-1dc0-473a-80cf-fd0cf8fb93eb" picurl="https://lunyaticcat.github.io/cards/creatures/Leonin%20Abunas%20(Can-Chan).jpeg">HON</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Herald's Horn</name>
+      <text>As Herald's Horn enters the battlefield, choose a creature type.
+        Creature spells you cast of the chosen type cost {1} less to cast.
+        At the beginning of your upkeep, look at the top card of your library. If it's a creature card of the chosen type, you may reveal it and put it into your hand.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <format-brawl>legal</format-brawl>
+          <cmc>3</cmc>
+          <format-duel>legal</format-duel>
+          <maintype>Artifact</maintype>
+          <manacost>3</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-commander>legal</format-commander>
+          <type>Artifact</type>
+          <format-timeless>legal</format-timeless>
+          <layout>normal</layout>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <format-historic>legal</format-historic>
+          <side>front</side>
+          <format-gladiator>legal</format-gladiator>
+      </prop>
+      <set rarity="uncommon" uuid="fc9db59a-97dd-4c0f-81f6-1912c8f2707e" picurl="https://lunyaticcat.github.io/cards/artifacts/Herald%E2%80%99s%20Horn%20(Duet%20of%20Eden).jpeg">HON</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Sun Quan, Lord of Wu</name>
+      <text>Creatures you control have horsemanship. (They can't be blocked except by creatures with horsemanship.)</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <cmc>6</cmc>
+          <coloridentity>U</coloridentity>
+          <format-duel>legal</format-duel>
+          <maintype>Creature</maintype>
+          <manacost>4UU</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-predh>legal</format-predh>
+          <format-commander>legal</format-commander>
+          <colors>U</colors>
+          <type>Legendary Creature — Human Soldier</type>
+          <layout>normal</layout>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <side>front</side>
+          <pt>4/4</pt>
+      </prop>
+      <set rarity="mythic" uuid="eb1aa2c7-4508-4352-82f6-4a2aa4473fe3" picurl="https://lunyaticcat.github.io/cards/creatures/Sun%20Quan,%20Lord%20of%20Wu%20(Durandal%20Ataegina,%20Palatinus%20Equinox).jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Arcade Gannon</name>
+      <text>{T}: Draw a card, then discard a card. Put a quest counter on Arcade Gannon.
+        For Auld Lang Syne — Once during each of your turns, you may cast an artifact or Human spell from your graveyard with mana value less than or equal to the number of quest counters on Arcade Gannon.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <cmc>4</cmc>
+          <coloridentity>WU</coloridentity>
+          <format-duel>legal</format-duel>
+          <maintype>Creature</maintype>
+          <manacost>2WU</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-commander>legal</format-commander>
+          <colors>WU</colors>
+          <type>Legendary Creature — Human Doctor</type>
+          <layout>normal</layout>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <side>front</side>
+          <pt>2/3</pt>
+      </prop>
+      <set rarity="rare" uuid="d484557a-fb52-4660-b6a7-db3ecade8618" picurl="https://lunyaticcat.github.io/cards/creatures/Arcade%20Gannon%20(Paul%20Long).jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Boromir, Gondor's Hope</name>
+      <text>Whenever Boromir, Gondor's Hope enters the battlefield or attacks, look at the top six cards of your library. You may reveal a Human or artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <cmc>4</cmc>
+          <coloridentity>WU</coloridentity>
+          <format-duel>legal</format-duel>
+          <maintype>Creature</maintype>
+          <manacost>2WU</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-commander>legal</format-commander>
+          <colors>WU</colors>
+          <type>Legendary Creature — Human Warrior</type>
+          <layout>normal</layout>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <side>front</side>
+          <pt>3/4</pt>
+      </prop>
+      <set rarity="rare" uuid="6df41ac2-ea86-4015-8179-9f7d066e1e48" picurl="https://lunyaticcat.github.io/cards/creatures/Boromir,%20Gondor%E2%80%99s%20Hope%20(Siegfried,%20The%20Lonely%20Hero).jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Paladin Danse, Steel Maverick</name>
+      <text>Vigilance, lifelink
+        Exile Paladin Danse, Steel Maverick: Each creature you control that's an artifact or Human gains indestructible until end of turn.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <cmc>3</cmc>
+          <coloridentity>W</coloridentity>
+          <format-duel>legal</format-duel>
+          <maintype>Creature</maintype>
+          <manacost>2W</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-commander>legal</format-commander>
+          <colors>W</colors>
+          <type>Legendary Artifact Creature — Synth Knight</type>
+          <format-paupercommander>restricted</format-paupercommander>
+          <layout>normal</layout>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <side>front</side>
+          <pt>3/3</pt>
+      </prop>
+      <set rarity="uncommon" uuid="5c8c1d90-988d-4f4e-8330-8c50673dbe6a" picurl="https://lunyaticcat.github.io/cards/creatures/Paladin%20Danse,%20Steel%20Maverick%20(Misteln%20Schariac,%20Dream%20Hare).jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Painsmith</name>
+      <text>Whenever you cast an artifact spell, you may have target creature get +2/+0 and gain deathtouch until end of turn.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <cmc>2</cmc>
+          <coloridentity>B</coloridentity>
+          <format-duel>legal</format-duel>
+          <maintype>Creature</maintype>
+          <manacost>1B</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-predh>legal</format-predh>
+          <format-commander>legal</format-commander>
+          <format-penny>legal</format-penny>
+          <colors>B</colors>
+          <type>Creature — Human Artificer</type>
+          <format-paupercommander>restricted</format-paupercommander>
+          <format-modern>legal</format-modern>
+          <layout>normal</layout>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <side>front</side>
+          <pt>2/1</pt>
+      </prop>
+      <set rarity="uncommon" uuid="2541b307-faec-4501-bc59-629eba577a79" picurl="https://lunyaticcat.github.io/cards/creatures/Painsmith%20(Sirin,%20Void%20Queen).jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rita Rossweisse</name>
+      <text>Vigilance
+        Whenever a Human creature or Artifact enters the battlefield under your control, put a cleaning counter on this card.
+        {T}, Remove three cleaning counters from this card: Exile target nonland permanent.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <cmc>5</cmc>
+          <coloridentity>WB</coloridentity>
+          <format-duel>legal</format-duel>
+          <maintype>Creature</maintype>
+          <manacost>3WB</manacost>
+          <format-premodern>legal</format-premodern>
+          <format-legacy>legal</format-legacy>
+          <format-predh>legal</format-predh>
+          <format-commander>legal</format-commander>
+          <colors>WB</colors>
+          <type>Creature — Human</type>
+          <format-paupercommander>legal</format-paupercommander>
+          <layout>normal</layout>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <side>front</side>
+          <pt>4/3</pt>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="8b7c516e-6c50-494a-b6c9-331d9960a881" picurl="https://lunyaticcat.github.io/cards/creatures/Rita%20Rossweisse.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Druid of Purification</name>
+      <text>When Druid of Purification enters the battlefield, starting with you, each player may choose an artifact or enchantment you don't control. Destroy each permanent chosen this way.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <cmc>4</cmc>
+          <coloridentity>G</coloridentity>
+          <format-duel>legal</format-duel>
+          <maintype>Creature</maintype>
+          <manacost>3G</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-commander>legal</format-commander>
+          <colors>G</colors>
+          <type>Creature — Human Druid</type>
+          <layout>normal</layout>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <side>front</side>
+          <pt>2/3</pt>
+      </prop>
+      <set rarity="rare" uuid="2d417f3a-a652-4fe7-993a-5b4076cf5b4a" picurl="https://lunyaticcat.github.io/cards/creatures/Druid%20of%20Purification%20(Susannah%20Mannat).jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+      <card>
+      <name>Heronblade Elite</name>
+      <text>Vigilance
+        Whenever another Human enters the battlefield under your control, put a +1/+1 counter on Heronblade Elite.
+        {T}: Add X mana of any one color, where X is Heronblade Elite's power.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <cmc>3</cmc>
+          <coloridentity>G</coloridentity>
+          <format-duel>legal</format-duel>
+          <maintype>Creature</maintype>
+          <manacost>2G</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-commander>legal</format-commander>
+          <colors>G</colors>
+          <type>Creature — Human Warrior</type>
+          <layout>normal</layout>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <side>front</side>
+          <pt>1/1</pt>
+      </prop>
+      <set rarity="rare" uuid="2d417f3a-a652-4fe7-993a-5b4076cf5b4a" picurl="https://lunyaticcat.github.io/cards/creatures/Heronblade%20Elite%20(Shigure%20Kira).jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hostage Taker</name>
+      <text>When Hostage Taker enters the battlefield, exile another target creature or artifact until Hostage Taker leaves the battlefield. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <format-pioneer>legal</format-pioneer>
+          <format-brawl>legal</format-brawl>
+          <cmc>4</cmc>
+          <coloridentity>UB</coloridentity>
+          <format-duel>legal</format-duel>
+          <maintype>Creature</maintype>
+          <manacost>2UB</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-commander>legal</format-commander>
+          <format-penny>legal</format-penny>
+          <colors>UB</colors>
+          <type>Creature — Human Pirate</type>
+          <format-timeless>legal</format-timeless>
+          <format-modern>legal</format-modern>
+          <layout>normal</layout>
+          <format-explorer>legal</format-explorer>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <format-historic>legal</format-historic>
+          <side>front</side>
+          <pt>2/3</pt>
+          <format-gladiator>legal</format-gladiator>
+      </prop>
+      <set rarity="rare" uuid="522d4b22-a0b2-4c05-9ad4-957b7d5db486" picurl="https://lunyaticcat.github.io/cards/creatures/Hostage%20Taker%20(Vill-V,%20I%E2%80%99m%20the%20storm).jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nightsquad Commando</name>
+      <text>When Nightsquad Commando enters the battlefield, if you attacked this turn, create a 1/1 white Human Soldier creature token.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <format-pioneer>legal</format-pioneer>
+          <format-brawl>legal</format-brawl>
+          <cmc>3</cmc>
+          <coloridentity>B</coloridentity>
+          <format-duel>legal</format-duel>
+          <maintype>Creature</maintype>
+          <manacost>2B</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-commander>legal</format-commander>
+          <colors>B</colors>
+          <type>Creature — Human Soldier</type>
+          <format-timeless>legal</format-timeless>
+          <format-paupercommander>legal</format-paupercommander>
+          <format-modern>legal</format-modern>
+          <layout>normal</layout>
+          <format-explorer>legal</format-explorer>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <format-historic>legal</format-historic>
+          <side>front</side>
+          <pt>2/3</pt>
+          <format-gladiator>legal</format-gladiator>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="6f2f92e9-8f7f-455d-9e6f-574c420820de" picurl="https://lunyaticcat.github.io/cards/creatures/Nightsquad%20Commando%20(Ana%20Schariac).jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jirina Kudro</name>
+      <text>When Jirina Kudro enters the battlefield, create a 1/1 white Human Soldier creature token for each time you've cast a commander from the command zone this game.
+        Other Humans you control get +2/+0.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <cmc>4</cmc>
+          <coloridentity>WBR</coloridentity>
+          <format-duel>legal</format-duel>
+          <maintype>Creature</maintype>
+          <manacost>1RWB</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-commander>legal</format-commander>
+          <colors>WBR</colors>
+          <type>Legendary Creature — Human Soldier</type>
+          <layout>normal</layout>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <side>front</side>
+          <pt>3/3</pt>
+      </prop>
+      <set rarity="mythic" uuid="aaf8d2da-8f52-44a0-9bb0-240d722f48af" picurl="https://lunyaticcat.github.io/cards/creatures/Jirina%20Kudro%20(Cocolia%20the%20Matushka).jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+      <card>
+      <name>Knight of the White Orchid</name>
+      <text>First strike
+        When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <format-pioneer>legal</format-pioneer>
+          <cmc>2</cmc>
+          <coloridentity>W</coloridentity>
+          <format-duel>legal</format-duel>
+          <maintype>Creature</maintype>
+          <manacost>WW</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-predh>legal</format-predh>
+          <format-commander>legal</format-commander>
+          <format-penny>legal</format-penny>
+          <colors>W</colors>
+          <type>Creature — Human Knight</type>
+          <format-modern>legal</format-modern>
+          <layout>normal</layout>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <side>front</side>
+          <pt>2/2</pt>
+      </prop>
+      <set rarity="rare" uuid="95f6dad3-92fc-4328-9c11-5f37189a7dd0" picurl="https://lunyaticcat.github.io/cards/creatures/Knight%20of%20the%20White%20Orchid%20(Li%20Sushang).jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nephalia Smuggler</name>
+      <text>{3}{U}, {T}: Exile another target creature you control, then return that card to the battlefield under your control.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <cmc>1</cmc>
+          <coloridentity>U</coloridentity>
+          <format-duel>legal</format-duel>
+          <maintype>Creature</maintype>
+          <manacost>U</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-commander>legal</format-commander>
+          <format-penny>legal</format-penny>
+          <colors>U</colors>
+          <type>Creature — Human Rogue</type>
+          <format-paupercommander>restricted</format-paupercommander>
+          <format-modern>legal</format-modern>
+          <layout>normal</layout>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <side>front</side>
+          <pt>1/1</pt>
+      </prop>
+      <set rarity="uncommon" uuid="3f5ae44e-b1e1-4ff9-86b4-502b3c1be8e4" picurl="https://lunyaticcat.github.io/cards/creatures/Nephalia%20Smuggler%20(Natasha%20Cioara).jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Library of Leng</name>
+      <text>You have no maximum hand size.
+        If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.</text>
+      <prop>
+          <cmc>1</cmc>
+          <maintype>Artifact</maintype>
+          <manacost>1</manacost>
+          <type>Artifact</type>
+          <layout>normal</layout>
+          <side>front</side>
+      </prop>
+      <set rarity="uncommon" uuid="6ace50c9-3293-472f-bf78-4059529b30fe" picurl="https://lunyaticcat.github.io/cards/artifacts/Library%20of%20Leng.jpeg">HON</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Narset, Enlightened Exile</name>
+      <text>Creatures you control have prowess.
+        Whenever Narset, Enlightened Exile attacks, exile target noncreature, nonland card with mana value less than Narset's power from a graveyard and copy it. You may cast the copy without paying its mana cost.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <format-pioneer>legal</format-pioneer>
+          <format-standard>legal</format-standard>
+          <format-future>legal</format-future>
+          <format-brawl>legal</format-brawl>
+          <cmc>4</cmc>
+          <coloridentity>WUR</coloridentity>
+          <format-duel>legal</format-duel>
+          <maintype>Creature</maintype>
+          <manacost>1URW</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-commander>legal</format-commander>
+          <format-standardbrawl>legal</format-standardbrawl>
+          <format-penny>legal</format-penny>
+          <colors>WUR</colors>
+          <type>Legendary Creature — Human Monk</type>
+          <format-timeless>legal</format-timeless>
+          <format-modern>legal</format-modern>
+          <layout>normal</layout>
+          <format-explorer>legal</format-explorer>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <format-historic>legal</format-historic>
+          <side>front</side>
+          <pt>3/4</pt>
+          <format-alchemy>legal</format-alchemy>
+          <format-gladiator>legal</format-gladiator>
+      </prop>
+      <set rarity="mythic" uuid="dbe6c430-4728-48be-94e8-caec5b194c74" picurl="https://lunyaticcat.github.io/cards/creatures/Narset,%20Enlightened%20Exile%20(Fu%20Hua,%20Azure%20Empyrea).jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fatespinner</name>
+      <text>At the beginning of each opponent's upkeep, that player chooses draw step, main phase, or combat phase. The player skips each instance of the chosen step or phase this turn.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <cmc>3</cmc>
+          <coloridentity>U</coloridentity>
+          <format-duel>legal</format-duel>
+          <maintype>Creature</maintype>
+          <manacost>1UU</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-predh>legal</format-predh>
+          <format-commander>legal</format-commander>
+          <format-penny>legal</format-penny>
+          <colors>U</colors>
+          <type>Creature — Human Wizard</type>
+          <format-modern>legal</format-modern>
+          <layout>normal</layout>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <side>front</side>
+          <pt>1/2</pt>
+      </prop>
+      <set rarity="rare" uuid="8a5cc19d-4193-480b-a037-e56e9eac06bf" picurl="https://lunyaticcat.github.io/cards/creatures/Fatespinner%20(AI%20Hyperion%20Lambda).jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kynaios and Tiro of Meletis</name>
+      <text>At the beginning of your end step, draw a card. Each player may put a land card from their hand onto the battlefield, then each opponent who didn't draws a card.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <cmc>4</cmc>
+          <coloridentity>WURG</coloridentity>
+          <format-duel>legal</format-duel>
+          <maintype>Creature</maintype>
+          <manacost>RGWU</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-commander>legal</format-commander>
+          <colors>WURG</colors>
+          <type>Legendary Creature — Human Soldier</type>
+          <layout>normal</layout>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <side>front</side>
+          <pt>2/8</pt>
+      </prop>
+      <set rarity="mythic" uuid="b930ed89-f8fc-43c9-87f4-e8575a2ed1c3" picurl="https://lunyaticcat.github.io/cards/creatures/Kynaios%20and%20Tiro%20of%20Meletis%20(Liliya%20and%20Rozaliya%20Olenyeva).jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cloudshift</name>
+      <text>Exile target creature you control, then return that card to the battlefield under your control.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <format-brawl>legal</format-brawl>
+          <cmc>1</cmc>
+          <coloridentity>W</coloridentity>
+          <format-duel>legal</format-duel>
+          <maintype>Instant</maintype>
+          <manacost>W</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-commander>legal</format-commander>
+          <colors>W</colors>
+          <type>Instant</type>
+          <format-timeless>legal</format-timeless>
+          <format-paupercommander>legal</format-paupercommander>
+          <format-modern>legal</format-modern>
+          <layout>normal</layout>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <format-historic>legal</format-historic>
+          <side>front</side>
+          <format-gladiator>legal</format-gladiator>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="24c33021-cf87-4c85-91a2-c555852e6c04" picurl="https://lunyaticcat.github.io/cards/instant-sorcery/Cloudshift.jpeg">HON</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Deadly Rollick</name>
+      <text>If you control a commander, you may cast this spell without paying its mana cost.
+        Exile target creature.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <cmc>4</cmc>
+          <coloridentity>B</coloridentity>
+          <format-duel>banned</format-duel>
+          <maintype>Instant</maintype>
+          <manacost>3B</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-commander>legal</format-commander>
+          <colors>B</colors>
+          <type>Instant</type>
+          <layout>normal</layout>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <side>front</side>
+      </prop>
+      <set rarity="rare" uuid="c2f17106-3643-4e11-ab42-117dc2b7bd4f" picurl="https://lunyaticcat.github.io/cards/instant-sorcery/Deadly%20Rollick.jpeg">HON</set>
+      <tablerow>3</tablerow>
+    </card>
+      <card>
+      <name>Deflecting Swat</name>
+      <text>If you control a commander, you may cast this spell without paying its mana cost.
+        You may choose new targets for target spell or ability.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <cmc>3</cmc>
+          <coloridentity>R</coloridentity>
+          <format-duel>banned</format-duel>
+          <maintype>Instant</maintype>
+          <manacost>2R</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-commander>legal</format-commander>
+          <colors>R</colors>
+          <type>Instant</type>
+          <layout>normal</layout>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <side>front</side>
+      </prop>
+      <set rarity="rare" uuid="478b029a-162a-4d88-950d-f71aa3a85e4c" picurl="https://lunyaticcat.github.io/cards/instant-sorcery/Deflecting%20Swat.jpeg">HON</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Mana Drain</name>
+      <text>Counter target spell. At the beginning of your next main phase, add an amount of {C} equal to that spell's mana value.</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <format-brawl>legal</format-brawl>
+          <cmc>2</cmc>
+          <coloridentity>U</coloridentity>
+          <format-duel>banned</format-duel>
+          <maintype>Instant</maintype>
+          <manacost>UU</manacost>
+          <format-legacy>banned</format-legacy>
+          <format-predh>legal</format-predh>
+          <format-commander>legal</format-commander>
+          <colors>U</colors>
+          <type>Instant</type>
+          <format-timeless>legal</format-timeless>
+          <layout>normal</layout>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <format-historic>banned</format-historic>
+          <side>front</side>
+          <format-gladiator>legal</format-gladiator>
+      </prop>
+      <set rarity="rare" uuid="6fc50052-b991-4170-8e41-d6d07e134537" picurl="https://lunyaticcat.github.io/cards/instant-sorcery/Mana%20Drain.jpeg">HON</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Momentary Blink</name>
+      <text>Exile target creature you control, then return it to the battlefield under its owner's control.
+        Flashback {3}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+      <prop>
+          <format-vintage>legal</format-vintage>
+          <format-brawl>legal</format-brawl>
+          <cmc>2</cmc>
+          <coloridentity>WU</coloridentity>
+          <format-duel>legal</format-duel>
+          <maintype>Instant</maintype>
+          <manacost>1W</manacost>
+          <format-legacy>legal</format-legacy>
+          <format-predh>legal</format-predh>
+          <format-commander>legal</format-commander>
+          <format-penny>legal</format-penny>
+          <colors>W</colors>
+          <type>Instant</type>
+          <format-timeless>legal</format-timeless>
+          <format-paupercommander>legal</format-paupercommander>
+          <format-modern>legal</format-modern>
+          <layout>normal</layout>
+          <format-oathbreaker>legal</format-oathbreaker>
+          <format-historic>legal</format-historic>
+          <side>front</side>
+          <format-gladiator>legal</format-gladiator>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="e2b25714-bd34-46e2-bd39-ab29bc6478ff" picurl="https://lunyaticcat.github.io/cards/instant-sorcery/Momentary%20Blink.jpeg">HON</set>
+      <tablerow>3</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>
