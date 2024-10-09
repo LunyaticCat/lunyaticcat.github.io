@@ -3,7 +3,7 @@ name: Generate cards.json on push
 on:
   push:
     branches:
-      - main  # Run the workflow on pushes to the main branch (change branch name if needed)
+      - main
 
 jobs:
   build:
@@ -26,10 +26,17 @@ jobs:
         run: |
           python scripts/generate_cards_json.py
 
+      - name: Check for changes in cards.json
+        run: |
+          git add cards.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add cards.json
           git commit -m "Auto-generate cards.json"
           git push
