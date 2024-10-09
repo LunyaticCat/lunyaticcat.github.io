@@ -27,5 +27,5 @@ for card_type, files in cards_data.items():
     if card_type not in ordered_types:
         ordered_cards_data[card_type] = files
 
-with open('../cards.json', 'w') as f:
+with open('cards.json', 'w') as f:
     json.dump(ordered_cards_data, f, indent=4)
