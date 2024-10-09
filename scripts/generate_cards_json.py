@@ -2,8 +2,8 @@ import os
 import json
 
 # Paths to your cards directory and order file
-cards_dir = '../cards'
-order_file = '../order.json'
+cards_dir = '/cards'
+order_file = '/order.json'
 cards_data = {}
 ordered_types = []
 
