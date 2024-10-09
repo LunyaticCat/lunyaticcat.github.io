@@ -1,9 +1,8 @@
 import os
 import json
 
-project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-cards_dir = os.path.join(project_root, 'cards')
-order_file = os.path.join(project_root, 'order.json')
+cards_dir = 'cards'
+order_file = 'order.json'
 cards_data = {}
 ordered_types = []
 
