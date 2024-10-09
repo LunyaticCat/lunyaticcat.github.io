@@ -24,7 +24,7 @@ jobs:
 
       - name: Run script to generate cards.json
         run: |
-          python scripts/generate_cards_json.py
+          python generate_cards_json.py
 
       - name: Commit and push changes
         run: |
