@@ -1834,20 +1834,21 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>Nightsquad Commando</name>
-      <text>When Nightsquad Commando enters the battlefield, if you attacked this turn, create a 1/1 white Human Soldier creature token.</text>
+      <name>Ana Schariac, Snow Lotus Leader</name>
+      <text>When a creature you control dies, exile this card with suspend 1.
+        When you cast this card from exile, return target creature with mana value 4 or lower from your graveyard to the battlefield under your control.</text>
       <prop>
           <format-vintage>legal</format-vintage>
           <format-pioneer>legal</format-pioneer>
           <format-brawl>legal</format-brawl>
           <cmc>3</cmc>
-          <coloridentity>B</coloridentity>
+          <coloridentity>WB</coloridentity>
           <format-duel>legal</format-duel>
           <maintype>Creature</maintype>
-          <manacost>2B</manacost>
+          <manacost>1WB</manacost>
           <format-legacy>legal</format-legacy>
           <format-commander>legal</format-commander>
-          <colors>B</colors>
+          <colors>WB</colors>
           <type>Creature — Human Soldier</type>
           <format-timeless>legal</format-timeless>
           <format-paupercommander>legal</format-paupercommander>
@@ -1861,7 +1862,7 @@
           <format-gladiator>legal</format-gladiator>
           <format-pauper>legal</format-pauper>
       </prop>
-      <set rarity="common" uuid="6f2f92e9-8f7f-455d-9e6f-574c420820de" picurl="https://lunyaticcat.github.io/cards/creatures/Nightsquad%20Commando%20(Ana%20Schariac).jpeg">HON</set>
+      <set rarity="rare" uuid="6f2f92e9-8f7f-455d-9e6f-574c420820de" picurl="https://lunyaticcat.github.io/cards/creatures/Ana%20Schariac,%20Snow%20Lotus%20Leader.jpeg">HON</set>
       <tablerow>2</tablerow>
     </card>
     <card>
