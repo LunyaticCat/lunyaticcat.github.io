@@ -28,6 +28,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          git config --local user.name "LunaticCat"
           git add -f cards.json
           git commit -m "Update json file" || echo "No changes to commit"
           git push origin main
