@@ -128,8 +128,8 @@
     </card>
     <card>
       <name>Elysian Realm</name>
-      <text>When a creature you control should leave the battlefield, exile it instead.
-        {T}: Create a copy of target creature exiled by Elysian Realm, except it has Defender and is an Illusion in addition to its other types.</text>
+      <text>If a creature you control would leave the battlefield, you may exile it instead with a memory counter on it.
+        {1}, {T}: Create a token that is a copy of target creature in exile with a memory counter on it, except it has Defender and is an Illusion in addition to its other types. Activate only as a sorcery.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -1835,8 +1835,8 @@
     </card>
     <card>
       <name>Ana Schariac, Snow Lotus Leader</name>
-      <text>When a creature you control dies, exile this card with suspend 1.
-        When you cast this card from exile, return target creature with mana value 4 or lower from your graveyard to the battlefield under your control.</text>
+      <text>Whenever another creature you control dies, exile Ana Schariac with three time counters on it. If it doesn’t have suspend, it gains suspend.
+        When you cast this card from exile, its effect become “When this card enters, put an indestructible counter on target creature”.{flavor}He saw her smile. Her beautiful face was highlighted by the sun and unfurled before him like a portrait painting.</text>
       <prop>
           <format-vintage>legal</format-vintage>
           <format-pioneer>legal</format-pioneer>
