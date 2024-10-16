@@ -13,7 +13,7 @@
       <name>Aponia the Discipline</name>
       <text>Flying, vigilance
         When Aponia the Discipline enters, starting with you, each player apply one effect until this card leaves the battlefield.
-        • All your creatures gains indestructible and hexproof. Skip all your battle steps.
+        • All other creatures you control gains indestructible and hexproof. Skip all your battle steps.
         • All your creatures gains trample and double-strike. Skip all your draw steps.
         • You may cast spells from your hand as though they had flash. Skip all your main steps.</text>
       <prop>
@@ -62,8 +62,8 @@
       <name>Doctor MEI</name>
       <text>Vanishing 4
         You may look at the top card of your library any time.
-        You may cast a Human or artifact spell from the top of your library once per turn.
-        {w}{u}{b}{r}{g}: Search your library for a Human or artifact spell and reveal that card. Shuffle your library, then put the card on top of it.</text>
+        You may cast a Human or artifact spell from the top of your library once per turn. If you cast a spell this way this turn, that spell cost {1} less to cast.
+        {W}{U}{B}{R}{G}: Search your library for a Human or artifact card and reveal that card. Shuffle your library, then put the card on top of it.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -147,8 +147,8 @@
     </card>
     <card>
       <name>Griseo the Star</name>
-      <text>Whenever you cast a spell, create a 0/X Canvas creature token, where X is the amount of mana spent to cast that spell.
-        {T}: Target Canvas creature becomes a copy of another target creature, except it's a Painting creature and it's toughness is X, where X is the toughness of the canvas creature.</text>
+      <text>Whenever you cast a spell, create a 0/X Canvas creature token, where X is the amount of mana spent to cast that spell. This ability triggers only once each turn.
+        {T} : Target Canvas creature becomes a copy of another target creature, except it’s a Painting creature and it’s toughness is X, where X is the toughness of the canvas creature.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -232,7 +232,7 @@
     </card>
     <card>
       <name>Kevin the Deliverance</name>
-      <text>Indestructible, vigilance
+      <text>Vigilance, trample, Indestructible
         Whenever Kevin the Deliverance enters the battlefield, you may search your library for a Human creature card, reveal it, put it in your hand, then shuffle.
         At the beginning of your upkeep, you may exile target creature.</text>
       <prop>
@@ -1310,16 +1310,16 @@
     </card>
     <card>
       <name>Xuanyuan Sword</name>
-      <text>Hexproof
-        At the beginning of your upkeep, create a token that is a copy of Xuanyuan Sword.
-        {t}: Sacrifice Xuanyuan Sword, add one mana of any color. </text>
+      <text>Shroud
+        When ~ enters the battlefield and at the beginning of your upkeep, create a token that is a copy of ~.
+        {t}: Sacrifice ~, add one mana of any color.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
-        <manacost>7</manacost>
-        <cmc>7</cmc>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
         <format-standard>legal</format-standard>
         <format-commander>legal</format-commander>
         <format-modern>legal</format-modern>
