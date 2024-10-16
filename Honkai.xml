@@ -1285,6 +1285,7 @@
         <format-pauper>legal</format-pauper>
       </prop>
       <set rarity="mythic" uuid="7ac6bc41-a7f1-4a3f-af12-49e8cc63196d" picurl="https://lunyaticcat.github.io/cards/artifacts/White%20Flower.jpeg">HON</set>
+      <related attach="transform">Black Abyss</related>
       <tablerow>1</tablerow>
     </card>
     <card>
@@ -1306,6 +1307,7 @@
         <format-pauper>legal</format-pauper>
       </prop>
       <set rarity="mythic" uuid="e1b81b79-2148-4cb3-927f-62b0e2a54e42" picurl="https://lunyaticcat.github.io/cards/artifacts/Black%20Abyss.jpeg">HON</set>
+      <related attach="transform">White Flower</related>
       <tablerow>1</tablerow>
     </card>
     <card>
