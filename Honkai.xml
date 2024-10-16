@@ -1838,7 +1838,7 @@
     <card>
       <name>Ana Schariac, Snow Lotus Leader</name>
       <text>Whenever another creature you control dies, exile Ana Schariac with three time counters on it. If it doesn’t have suspend, it gains suspend.
-        When you cast this card from exile, its effect become “When this card enters, put an indestructible counter on target creature”.{flavor}He saw her smile. Her beautiful face was highlighted by the sun and unfurled before him like a portrait painting.</text>
+        When you cast this card from exile, its effect become “When this card enters, put an indestructible counter on target creature.”</text>
       <prop>
           <format-vintage>legal</format-vintage>
           <format-pioneer>legal</format-pioneer>
