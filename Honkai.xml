@@ -322,7 +322,6 @@
     </card>
     <card>
       <name>Canvas</name>
-      <text></text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
