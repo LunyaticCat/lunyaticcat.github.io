@@ -369,6 +369,7 @@
         <format-pauper>legal</format-pauper>
       </prop>
       <set rarity="common" uuid="1494beb6-ab51-421a-b311-ec4c67d79df9" picurl="https://lunyaticcat.github.io/cards/lands/Wastes.jpeg">HON</set>
+      <token>1</token>
       <tablerow>0</tablerow>
     </card>
     <card>
