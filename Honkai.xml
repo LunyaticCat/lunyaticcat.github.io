@@ -148,7 +148,7 @@
     <card>
       <name>Griseo the Star</name>
       <text>Whenever you cast a spell, create a 0/X Canvas creature token, where X is the amount of mana spent to cast that spell. This ability triggers only once each turn.
-        {T} : Target Canvas creature becomes a copy of another target creature, except it’s a Painting creature and it’s toughness is X, where X is the toughness of the canvas creature.</text>
+        {3}, {T} : Target Canvas creature becomes a copy of another target creature, except it’s a Painting creature and it’s toughness is X, where X is the toughness of the canvas creature.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -156,7 +156,7 @@
         <maintype>Creature</maintype>
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <pt>0/2</pt>
+        <pt>2/2</pt>
         <format-standard>legal</format-standard>
         <format-commander>legal</format-commander>
         <format-modern>legal</format-modern>
@@ -221,7 +221,7 @@
         <cmc>6</cmc>
         <colors>BR</colors>
         <coloridentity>BR</coloridentity>
-        <pt>5/5</pt>
+        <pt>6/5</pt>
         <format-standard>legal</format-standard>
         <format-commander>legal</format-commander>
         <format-modern>legal</format-modern>
@@ -240,8 +240,8 @@
         <side>front</side>
         <type>Legendary Creature - Human Soldier</type>
         <maintype>Creature</maintype>
-        <manacost>8WU</manacost>
-        <cmc>10</cmc>
+        <manacost>7WU</manacost>
+        <cmc>9</cmc>
         <colors>WU</colors>
         <coloridentity>WU</coloridentity>
         <pt>10/10</pt>
@@ -317,7 +317,7 @@
         <format-pauper>legal</format-pauper>
       </prop>
       <set rarity="mythic" uuid="0e712aa1-258f-4131-aa4a-addf4f653636" picurl="https://lunyaticcat.github.io/cards/creatures/Pardofelis%20the%20Reverie.jpeg">HON</set>
-      <related>Pardofelis's Treasure</related>
+      <related>Treasure</related>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -356,9 +356,25 @@
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Wastes</name>
+      <text>({T}: Add {C}.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="1494beb6-ab51-421a-b311-ec4c67d79df9" picurl="https://lunyaticcat.github.io/cards/lands/Wastes.jpeg">HON</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
       <name>Project ARK</name>
       <text>Flying
-        Crew 1
+        Crew 2
         When Project ARK deals combat damage to a player, draw a card.
         You may play an additional land each turn.</text>
       <prop>
@@ -1204,7 +1220,7 @@
     <card>
       <name>Unnamed Satellite</name>
       <text>{2}, {T}: Create a colorless Waste basic land token.
-        {2}, {T}: Transform target Waste basic land you control into a basic land of your choice.</text>
+        {1}, {T}: Transform target Waste basic land you control into a basic land of your choice.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -1332,9 +1348,9 @@
     <card>
       <name>Jizo Mitama</name>
       <text>When Jizo Mitama enters the battlefield, attach it to target creature.
-        Equipped creature gets +2/+1 and Bushido 1.
-        Take control of equipped creature.
-        Equip {2}{u}</text>
+        Equipped creature gets +2/+1 and has bushido 1 and haste.
+        You control equipped creature.
+        Equip {2}{r}</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -1376,11 +1392,11 @@
     </card>
     <card>
       <name>Prometheus</name>
-      <text>{T}, Exile Prometheus: You control target player's next upkeep. During that turn, you may cast spells as though they had flash.</text>
+      <text>{T}, Exile Prometheus: You control target player during their next upkeep. During that turn, you may cast spells as though they had flash.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
-        <type>Artifact Creature - Human</type>
+        <type>Legendary Artifact Creature - Human</type>
         <maintype>Creature</maintype>
         <manacost>6BB</manacost>
         <cmc>8</cmc>
