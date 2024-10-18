@@ -84,8 +84,8 @@
     </card>
     <card>
       <name>Eden the Gold</name>
-      <text>When Eden the Gold enters the battlefield, each player creates a colorless 1/1 Music Note creature token with 'when this creature leaves the battlefield, if there are no other Music Note tokens on the battlefield, each other player sacrifices a land'.
-        Eden's power and toughness each equal the number of Music Note tokens on the battlefield.</text>
+      <text>When Eden the Gold enters the battlefield, each opponent creates a colorless 0/1 Music Note creature token with “Music Note can’t block. During your upkeep, target land you control becomes a Wastes.”
+        Eden’s power and toughness each equal the number of Music Note tokens on the battlefield.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -101,6 +101,7 @@
         <format-modern>legal</format-modern>
         <format-pauper>legal</format-pauper>
       </prop>
+      <related>Music Note</related>
       <set rarity="mythic" uuid="70d2a2e7-3a14-4c66-b624-9f77e75ef35a" picurl="https://lunyaticcat.github.io/cards/creatures/Eden%20the%20Gold.jpeg">HON</set>
       <tablerow>2</tablerow>
     </card>
@@ -162,6 +163,7 @@
         <format-modern>legal</format-modern>
         <format-pauper>legal</format-pauper>
       </prop>
+      <related>Canvas</related>
       <set rarity="mythic" uuid="a047c736-7cb1-4a80-ae6b-cb62196e3bf1" picurl="https://lunyaticcat.github.io/cards/creatures/Griseo%20the%20Star.jpeg">HON</set>
       <tablerow>2</tablerow>
     </card>
@@ -333,7 +335,6 @@
         <format-pauper>legal</format-pauper>
       </prop>
       <set rarity="common" uuid="e40edcb9-076c-41e2-a8a3-18b8f5590e14" picurl="https://lunyaticcat.github.io/cards/etc/Canvas.jpeg">HON</set>
-      <reverse-related>Griseo the Star</reverse-related>
       <token>1</token>
       <tablerow>1</tablerow>
     </card>
@@ -351,9 +352,46 @@
         <format-pauper>legal</format-pauper>
       </prop>
       <set rarity="common" uuid="38964b22-72eb-47db-8cfd-33cb9e3f6a90" picurl="https://lunyaticcat.github.io/cards/etc/Treasure.jpeg">HON</set>
-      <reverse-related>Pardofelis the Reverie</reverse-related>
       <token>1</token>
       <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Human</name>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Token Creature - Human</type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <colors>W</colors>
+        <coloridentity>W</coloridentity>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="38964b22-72eb-47db-8cfd-33cb9e3f6a90" picurl="https://lunyaticcat.github.io/cards/etc/Human.jpeg">HON</set>
+      <token>1</token>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Music Note</name>
+      <text>Music Note can’t block.
+        During your upkeep, target land you control becomes a Wastes.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Token Creature</type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="38964b22-72eb-47db-8cfd-33cb9e3f6a90" picurl="https://lunyaticcat.github.io/cards/etc/Music%20Note.jpeg">HON</set>
+      <token>1</token>
+      <tablerow>2</tablerow>
     </card>
     <card>
       <name>Wastes</name>
@@ -368,7 +406,7 @@
         <format-modern>legal</format-modern>
         <format-pauper>legal</format-pauper>
       </prop>
-      <set rarity="common" uuid="1494beb6-ab51-421a-b311-ec4c67d79df9" picurl="https://lunyaticcat.github.io/cards/lands/Wastes.jpeg">HON</set>
+      <set rarity="common" uuid="1494beb6-ab51-421a-b311-ec4c67d79df9" picurl="https://lunyaticcat.github.io/cards/etc/Wastes.jpeg">HON</set>
       <token>1</token>
       <tablerow>0</tablerow>
     </card>
@@ -1294,7 +1332,6 @@
         <cmc>2</cmc>
         <colors>W</colors>
         <coloridentity>W</coloridentity>
-        <related>Black Abyss</related>
         <format-standard>legal</format-standard>
         <format-commander>legal</format-commander>
         <format-modern>legal</format-modern>
@@ -1302,6 +1339,7 @@
       </prop>
       <set rarity="mythic" uuid="7ac6bc41-a7f1-4a3f-af12-49e8cc63196d" picurl="https://lunyaticcat.github.io/cards/artifacts/White%20Flower.jpeg">HON</set>
       <related attach="transform">Black Abyss</related>
+      <related>Human</related>
       <tablerow>1</tablerow>
     </card>
     <card>
@@ -1316,7 +1354,6 @@
         <type>Legendary Artifact - Equipement</type>
         <maintype>Artifact</maintype>
         <coloridentity>B</coloridentity>
-        <reverse-related>White Flower</reverse-related>
         <format-standard>legal</format-standard>
         <format-commander>legal</format-commander>
         <format-modern>legal</format-modern>
