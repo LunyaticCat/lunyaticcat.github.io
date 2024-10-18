@@ -103,7 +103,6 @@
         "Island.jpeg",
         "Raugrin Triome.jpeg",
         "Zagoth Triome.jpeg",
-        "Wastes.jpeg",
         "Arid Mesa.jpeg",
         "Exotic Orchard.jpeg",
         "Flooded Strand.jpeg",
@@ -115,7 +114,10 @@
         "Plains.jpeg"
     ],
     "etc": [
+        "Wastes.jpeg",
         "Canvas.jpeg",
+        "Music Note.jpeg",
+        "Human.jpeg",
         "Treasure.jpeg"
     ]
 }
