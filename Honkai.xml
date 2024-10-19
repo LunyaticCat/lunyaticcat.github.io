@@ -329,6 +329,7 @@
         <side>front</side>
         <type>Token Creature - Canvas</type>
         <maintype>Creature</maintype>
+        <pt>0/*</pt>
         <format-standard>legal</format-standard>
         <format-commander>legal</format-commander>
         <format-modern>legal</format-modern>
@@ -1180,7 +1181,7 @@
     <card>
       <name>Fenghuang Down</name>
       <text>Suspend 3 {-} {b}
-      {t}: Take a card from target opponent library and put it in their hand, then they do the same for you. Exile ~ with three time counters on it.</text>
+      {t}: Take a card from target opponent library and put it in their hand, shuffle their library, then they do the same for you. Exile ~ with three time counters on it.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
