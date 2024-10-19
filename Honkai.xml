@@ -108,7 +108,7 @@
     <card>
       <name>Elysia the Ego</name>
       <text>Reach
-        {X},{T}, Choose a creature type: Create an X/X colorless artifact creature token with the chosen type.</text>
+When Elysia the Ego enters, choose an opponent, as long as there is more than two players, until this card leave the battlefield, you and your opponent can’t attack each others nor target each others with card effect.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
