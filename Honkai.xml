@@ -415,6 +415,23 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Spirit</name>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Token Creature - Spirit</type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="cd900f46-5bf3-481b-bb6e-4f6e181a63b5" picurl="https://lunyaticcat.github.io/cards/etc/Spirit.jpeg">HON</set>
+      <token>1</token>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Music Note</name>
       <text>Music Note can’t block.
         During your upkeep, target land you control becomes a Wastes.</text>

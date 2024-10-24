@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Flame-Chasers</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Aponia the Discipline"/>
+        <card number="1" name="Cosmic Juggernaut"/>
+        <card number="1" name="Eden the Gold"/>
+        <card number="1" name="Elysia the Ego"/>
+        <card number="1" name="Elysian Realm"/>
+        <card number="1" name="Griseo the Star"/>
+        <card number="1" name="Honkai Zombification"/>
+        <card number="1" name="Hua the Vicissitude"/>
+        <card number="1" name="Kalpas the Decimation"/>
+        <card number="1" name="Kevin the Deliverance"/>
+        <card number="1" name="Kosma the Daybreak"/>
+        <card number="1" name="Mobius the Infinity"/>
+        <card number="1" name="Pardofelis the Reverie"/>
+        <card number="1" name="Project ARK"/>
+        <card number="1" name="Quantic Transcendence"/>
+        <card number="1" name="Sakura the Setsuna"/>
+        <card number="1" name="Su the Bodhi"/>
+        <card number="1" name="Vill-V the Helix"/>
+        <card number="1" name="Zagoth Triome"/>
+        <card number="1" name="Savai Triome"/>
+        <card number="1" name="Raugrin Triome"/>
+        <card number="1" name="Indatha Triome"/>
+        <card number="1" name="Ketria Triome"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Forbidden Orchard"/>
+        <card number="1" name="City of Brass"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="2" name="Island"/>
+        <card number="2" name="Plains"/>
+        <card number="2" name="Swamp"/>
+        <card number="2" name="Mountain"/>
+        <card number="1" name="Parallel Lives"/>
+        <card number="1" name="7 Thunders of Retribution"/>
+        <card number="1" name="Fractured Identity"/>
+        <card number="1" name="Jetmir's Garden"/>
+        <card number="1" name="Ziatora's Proving Ground"/>
+        <card number="1" name="Spara's Headquarters"/>
+        <card number="1" name="Xander's Lounge"/>
+        <card number="1" name="Raffine's Tower"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Project STIGMA"/>
+        <card number="1" name="Unnamed Satellite"/>
+        <card number="1" name="The Great Hibernation"/>
+        <card number="1" name="Sea of Quanta"/>
+        <card number="1" name="Oath of Judah"/>
+        <card number="1" name="Fenghuang Down"/>
+        <card number="1" name="Judgment Of Shamash"/>
+        <card number="1" name="Xuanyuan Sword"/>
+        <card number="1" name="White Flower"/>
+        <card number="1" name="Star of Eden"/>
+        <card number="1" name="Jizo Mitama"/>
+        <card number="1" name="Klein"/>
+        <card number="1" name="Prometheus"/>
+        <card number="1" name="The Prydwen, Steel Flagship"/>
+        <card number="1" name="Arcade Gannon"/>
+        <card number="1" name="Boromir, Gondor's Hope"/>
+        <card number="1" name="Careful Cultivation"/>
+        <card number="1" name="Paladin Danse, Steel Maverick"/>
+        <card number="1" name="Heronblade Elite"/>
+        <card number="1" name="Momentary Blink"/>
+        <card number="1" name="Cloudshift"/>
+        <card number="1" name="Nephalia Smuggler"/>
+        <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Grand Abolisher"/>
+        <card number="1" name="Deflecting Swat"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Urza's Incubator"/>
+        <card number="1" name="Deadly Rollick"/>
+        <card number="1" name="Druid of Purification"/>
+        <card number="1" name="Jirina Kudro"/>
+        <card number="1" name="Hostage Taker"/>
+        <card number="1" name="Painsmith"/>
+        <card number="1" name="Kynaios and Tiro of Meletis"/>
+        <card number="1" name="Narset, Enlightened Exile"/>
+        <card number="1" name="Mana Drain"/>
+        <card number="1" name="Leonin Abunas"/>
+        <card number="1" name="Sun Quan, Lord of Wu"/>
+        <card number="1" name="Fatespinner"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Rita Rossweisse"/>
+        <card number="1" name="Ana Schariac, Snow Lotus Leader"/>
+    </zone>
+    <zone name="tokens">
+        <card number="1" name="Canvas"/>
+        <card number="1" name="Treasure"/>
+        <card number="1" name="Wastes"/>
+        <card number="1" name="Music Note"/>
+        <card number="1" name="Human Knight"/>
+        <card number="1" name="Beast"/>
+        <card number="1" name="Spirit"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Black Abyss"/>
+        <card number="1" name="Doctor MEI"/>
+    </zone>
+</cockatrice_deck>
