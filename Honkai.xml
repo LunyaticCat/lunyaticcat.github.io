@@ -392,7 +392,8 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
         <format-modern>legal</format-modern>
         <format-pauper>legal</format-pauper>
       </prop>
-      <set rarity="common" uuid="38964b22-72eb-47db-8cfd-33cb9e3f6a90" picurl="https://lunyaticcat.github.io/cards/etc/Human.jpeg">HON</set>
+      <reverse-related>The Prydwen, Steel Flagship</reverse-related>
+      <set rarity="common" uuid="38964b22-72eb-47db-8cfd-33cb9e3f6a90" picurl="https://lunyaticcat.github.io/cards/etc/Human%20Knight.jpeg">HON</set>
       <token>1</token>
       <tablerow>2</tablerow>
     </card>
@@ -1559,7 +1560,6 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
             <side>front</side>
             <pt>6/6</pt>
         </prop>
-        <related>Human Knight</related>
         <set rarity="rare" uuid="09f16c46-7086-400e-b5e4-9f32f40a087d" picurl="https://lunyaticcat.github.io/cards/artifacts/The%20Prydwen,%20Steel%20Flagship%20(The%20Hyperion,%20Anti-Entropy%E2%80%99s%20Battleship).jpeg">HON</set>
         <tablerow>1</tablerow>
     </card>
