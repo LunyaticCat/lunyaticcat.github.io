@@ -377,23 +377,18 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>Human Knight</name>
+      <name>Human Knight Token </name>
+      <text>This creature gets +2/+2 as long as an artifact entered the battlefield under your control this turn.</text>
       <prop>
-        <layout>normal</layout>
-        <side>front</side>
-        <type>Token Creature - Human Knight</type>
-        <text>This creature gets +2/+2 as long as an artifact entered the battlefield under your control this turn.</text>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
         <colors>W</colors>
-        <coloridentity>W</coloridentity>
-        <format-standard>legal</format-standard>
-        <format-commander>legal</format-commander>
-        <format-modern>legal</format-modern>
-        <format-pauper>legal</format-pauper>
+        <type>Token Creature — Human Knight</type>
+        <maintype>Creature</maintype>
+        <cmc>0</cmc>
+        <pt>2/2</pt>
       </prop>
-      <reverse-related>The Prydwen, Steel Flagship</reverse-related>
       <set rarity="common" uuid="38964b22-72eb-47db-8cfd-33cb9e3f6a90" picurl="https://lunyaticcat.github.io/cards/etc/Human%20Knight.jpeg">HON</set>
+      <reverse-related>The Prydwen, Steel Flagship</reverse-related>
+      <reverse-related count="x" exclude="exclude">The Prydwen, Steel Flagship</reverse-related>
       <token>1</token>
       <tablerow>2</tablerow>
     </card>
