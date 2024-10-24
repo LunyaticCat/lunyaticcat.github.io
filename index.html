@@ -58,9 +58,7 @@
 </div>
 
 <div class="button-container">
-    <button class="size-button" id="increase-size">+ 10%</button>
-    <p id="scale-factor">100%</p>
-    <button class="size-button" id="decrease-size">- 10%</button>
+    <label for="scale-factor">Size: </label><input type="number" id="scale-factor" value="250">
 </div>
 
 <div class="card-container" id="card-container"></div>
@@ -77,16 +75,9 @@
         document.getElementById("scale-factor").innerText = Math.round(scaleFactor*100)+"%";
     }
 
-    document.getElementById('increase-size').addEventListener('click', () => {
-        scaleFactor += 0.1; // Increase scale by 10%
+    document.getElementById("scale-factor").addEventListener("input", function() {
+        scaleFactor = this.value / 10;
         updateCardSize();
-    });
-
-    document.getElementById('decrease-size').addEventListener('click', () => {
-        if (scaleFactor > 0.2) { // Prevent card size from becoming too small (20% of original size)
-            scaleFactor -= 0.1; // Decrease scale by 10%
-            updateCardSize();
-        }
     });
 
     fetch('cards.json')
