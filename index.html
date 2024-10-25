@@ -64,62 +64,60 @@
 <div class="card-container" id="card-container"></div>
 
 <script>
-    let scaleFactor = 1; // Initial scale factor (100%)
+let scaleFactor = 1;
 
-    function updateCardSize() {
-        const cards = document.querySelectorAll('.card');
-        cards.forEach(card => {
-            card.style.width = `${150 * scaleFactor}px`;
-            card.style.height = `${150 * scaleFactor * 1.33}px`;
+function updateCardSize() {
+    const cards = document.querySelectorAll('.card');
+    cards.forEach(card => {
+        card.style.width = `${150 * scaleFactor}px`;
+        card.style.height = `${150 * scaleFactor * 1.33}px`;
+    });
+    document.getElementById("scale-factor").innerText = Math.round(scaleFactor * 100) + "%";
+}
+
+document.getElementById("scale-factor").addEventListener("input", function() {
+    scaleFactor = this.value / 10;
+    updateCardSize();
+});
+
+Promise.all([
+    fetch('cards.json').then(response => response.json()),
+    fetch('blacklist.json').then(response => response.json())
+])
+.then(([data, blacklist]) => {
+    const cardContainer = document.getElementById('card-container');
+    const blacklistSet = new Set(blacklist.blacklist);
+
+    for (const type in data) {
+        const section = document.createElement('div');
+        section.classList.add('card-type');
+
+        const title = document.createElement('h2');
+        title.textContent = type.charAt(0).toUpperCase() + type.slice(1);
+        section.appendChild(title);
+
+        const innerContainer = document.createElement('div');
+        innerContainer.classList.add('card-container-inner');
+
+        data[type].forEach(card => {
+            if (!blacklistSet.has(card)) {  // Exclude blacklisted cards
+                const img = document.createElement('img');
+                img.src = `/cards/${type}/${card}`;
+                img.alt = `${card}`;
+                const cardDiv = document.createElement('div');
+                cardDiv.classList.add('card');
+                cardDiv.appendChild(img);
+                innerContainer.appendChild(cardDiv);
+            }
         });
-        document.getElementById("scale-factor").innerText = Math.round(scaleFactor*100)+"%";
+
+        section.appendChild(innerContainer);
+        cardContainer.appendChild(section);
     }
 
-    document.getElementById("scale-factor").addEventListener("input", function() {
-        scaleFactor = this.value / 10;
-        updateCardSize();
-    });
-
-    fetch('cards.json')
-        .then(response => response.json())
-        .then(data => {
-            const cardContainer = document.getElementById('card-container');
-
-            for (const type in data) {
-                // Create a new section for each card type
-                const section = document.createElement('div');
-                section.classList.add('card-type');
-
-                // Create a title for the card type
-                const title = document.createElement('h2');
-                title.textContent = type.charAt(0).toUpperCase() + type.slice(1); // Capitalize the first letter
-                section.appendChild(title);
-
-                // Create an inner container for the cards
-                const innerContainer = document.createElement('div');
-                innerContainer.classList.add('card-container-inner');
-
-                // Display each card in the type
-                data[type].forEach(card => {
-                    const img = document.createElement('img');
-                    img.src = `/cards/${type}/${card}`;
-                    img.alt = `${card}`;
-                    const cardDiv = document.createElement('div');
-                    cardDiv.classList.add('card');
-                    cardDiv.appendChild(img);
-                    innerContainer.appendChild(cardDiv);
-                });
-
-                // Append the inner container to the section
-                section.appendChild(innerContainer);
-                // Append the section to the card container
-                cardContainer.appendChild(section);
-            }
-
-            // Initial size update
-            updateCardSize();
-        })
-        .catch(error => console.error('Error loading cards:', error));
+    updateCardSize();
+})
+.catch(error => console.error('Error loading cards or blacklist:', error));
 </script>
 </body>
 </html>
