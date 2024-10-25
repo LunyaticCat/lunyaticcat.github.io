@@ -100,9 +100,10 @@ Promise.all([
         innerContainer.classList.add('card-container-inner');
 
         data[type].forEach(card => {
-            if (!blacklistSet.has(card)) {  // Exclude blacklisted cards
+            const cardPath = `${type}/${card}`;
+            if (!blacklistSet.has(cardPath)) {
                 const img = document.createElement('img');
-                img.src = `/cards/${type}/${card}`;
+                img.src = `/cards/${cardPath}`;
                 img.alt = `${card}`;
                 const cardDiv = document.createElement('div');
                 cardDiv.classList.add('card');
@@ -110,6 +111,7 @@ Promise.all([
                 innerContainer.appendChild(cardDiv);
             }
         });
+
 
         section.appendChild(innerContainer);
         cardContainer.appendChild(section);
