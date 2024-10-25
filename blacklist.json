@@ -1,7 +1,7 @@
 {
     "blacklist": [
-        "Himeko.jpg",
-        "Avacyn’s Collar (Vita’s collar).jpeg",
-        "Library of Leng.jpeg"
+        "creatures/Himeko.jpg",
+        "artifacts/Avacyn’s Collar (Vita’s collar).jpeg",
+        "artifacts/Library of Leng.jpeg"
     ]
 }
