@@ -148,7 +148,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>Griseo the Star</name>
-      <text>Whenever you cast a spell, create a 0/X Canvas creature token, where X is the amount of mana spent to cast that spell. This ability triggers only once each turn.
+      <text>Whenever you cast a spell, create a 0/X Canvas creature token, where X is the amount of mana spent to cast that spell, and destroy it when Griseo the Star leave the battlefield. This ability triggers only once each turn.
         {3}, {T} : Target Canvas creature becomes a copy of another target creature, except it’s a Painting creature and it’s toughness is X, where X is the toughness of the canvas creature.</text>
       <prop>
         <layout>normal</layout>
