@@ -191,7 +191,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     <card>
       <name>Hua the Vicissitude</name>
       <text>First-strike
-        If Hua the Vicissitude would leave the battlefield, phase it out instead with 3 time counters on it, if she doesn't have suspend it gains suspend.</text>
+        If Hua the Vicissitude would leave the battlefield, exile it instead with 3 time counters on it, if she doesn't have suspend it gains suspend.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
