@@ -2000,7 +2000,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>Cocolia the Matushka</name>
-      <text>when Cocolia the Matushka enters or attacks, put X +1/+1 counters on another target human, where X is the number of artifacts you control.</text>
+      <text>when Cocolia the Matushka enters or attacks, put X +1/+1 counters on another target Human, where X is the number of artifacts you control.</text>
       <prop>
           <format-vintage>legal</format-vintage>
           <cmc>6</cmc>
