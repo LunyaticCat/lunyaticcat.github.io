@@ -67,7 +67,7 @@
       <prop>
         <layout>normal</layout>
         <side>front</side>
-        <type>Legendary Creature - Human Scientist</type>
+        <type>Legendary Creature - Human Doctor</type>
         <maintype>Creature</maintype>
         <manacost>3U</manacost>
         <cmc>4</cmc>
@@ -191,7 +191,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     <card>
       <name>Hua the Vicissitude</name>
       <text>First-strike
-        If Hua the Vicissitude would leave the battlefield, exile it instead with 3 time counters on it, if she doesn't have suspend she gain suspend.</text>
+        If Hua the Vicissitude would leave the battlefield, phase it out instead with 3 time counters on it, if she doesn't have suspend it gains suspend.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -208,6 +208,33 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
         <format-pauper>legal</format-pauper>
       </prop>
       <set rarity="mythic" uuid="f120d684-9223-4384-98a2-5fe7b20d00c7" picurl="https://lunyaticcat.github.io/cards/creatures/Hua%20the%20Vicissitude.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Esper Sentinel</name>
+      <text>Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is Esper Sentinel's power.</text>
+      <prop>
+        <format-legacy>legal</format-legacy>
+        <maintype>Creature</maintype>
+        <colors>W</colors>
+        <cmc>1</cmc>
+        <format-historic>legal</format-historic>
+        <format-oathbreaker>legal</format-oathbreaker>
+        <format-gladiator>legal</format-gladiator>
+        <side>front</side>
+        <pt>1/1</pt>
+        <layout>normal</layout>
+        <format-vintage>legal</format-vintage>
+        <format-duel>legal</format-duel>
+        <format-modern>legal</format-modern>
+        <coloridentity>W</coloridentity>
+        <format-timeless>legal</format-timeless>
+        <format-commander>legal</format-commander>
+        <type>Artifact Creature — Human Soldier</type>
+        <format-brawl>legal</format-brawl>
+        <manacost>W</manacost>
+      </prop>
+      <set rarity="rare" uuid="7932648b-7d8a-4e68-a3c2-c7dab26b15da" picurl="https://lunyaticcat.github.io/cards/creatures/Esper%20Sentinel.jpeg">HON</set>
       <tablerow>2</tablerow>
     </card>
     <card>
@@ -971,24 +998,26 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>Parallel Lives</name>
-      <text>If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.</text>
+      <name>Quantum Misalignment</name>
+      <text>Create a token that's a copy of target creature you control, except it isn't legendary.
+        Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
       <prop>
-        <layout>normal</layout>
+        <format-legacy>legal</format-legacy>
+        <maintype>Sorcery</maintype>
+        <colors>U</colors>
+        <cmc>5</cmc>
+        <format-oathbreaker>legal</format-oathbreaker>
         <side>front</side>
-        <type>Enchantment</type>
-        <maintype>Enchantment</maintype>
-        <manacost>3G</manacost>
-        <cmc>3</cmc>
-        <colors>G</colors>
-        <coloridentity>G</coloridentity>
-        <format-standard>legal</format-standard>
+        <layout>normal</layout>
+        <format-vintage>legal</format-vintage>
+        <format-duel>legal</format-duel>
+        <coloridentity>U</coloridentity>
         <format-commander>legal</format-commander>
-        <format-modern>legal</format-modern>
-        <format-pauper>legal</format-pauper>
+        <type>Sorcery</type>
+        <manacost>4U</manacost>
       </prop>
-      <set rarity="rare" uuid="b4225d2e-9e83-4801-b99f-ad8711ed113f" picurl="https://lunyaticcat.github.io/cards/enchantments/Parallel%20Lives.jpeg">HON</set>
-      <tablerow>1</tablerow>
+      <set rarity="rare" uuid="b4225d2e-9e83-4801-b99f-ad8711ed113f" picurl="https://lunyaticcat.github.io/cards/enchantments/Quantum%20Misalignment.jpeg">HON</set>
+      <tablerow>3</tablerow>
       
       
     </card>
@@ -1969,16 +1998,15 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>Jirina Kudro</name>
-      <text>When Jirina Kudro enters the battlefield, create a 1/1 white Human Soldier creature token for each time you've cast a commander from the command zone this game.
-        Other Humans you control get +2/+0.</text>
+      <name>Cocolia the Matushka</name>
+      <text>When Cocolia the Matushka enters or attacks, target Human creature you control gets X +1/+1 counters, were X is the number of artifacts you control.</text>
       <prop>
           <format-vintage>legal</format-vintage>
-          <cmc>4</cmc>
-          <coloridentity>WBR</coloridentity>
+          <cmc>5</cmc>
+          <coloridentity>RW</coloridentity>
           <format-duel>legal</format-duel>
           <maintype>Creature</maintype>
-          <manacost>1RWB</manacost>
+          <manacost>3RW</manacost>
           <format-legacy>legal</format-legacy>
           <format-commander>legal</format-commander>
           <colors>WBR</colors>
@@ -1986,12 +2014,12 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
           <layout>normal</layout>
           <format-oathbreaker>legal</format-oathbreaker>
           <side>front</side>
-          <pt>3/3</pt>
+          <pt>1/5</pt>
       </prop>
-      <set rarity="mythic" uuid="aaf8d2da-8f52-44a0-9bb0-240d722f48af" picurl="https://lunyaticcat.github.io/cards/creatures/Jirina%20Kudro%20(Cocolia%20the%20Matushka).jpeg">HON</set>
+      <set rarity="mythic" uuid="aaf8d2da-8f52-44a0-9bb0-240d722f48af" picurl="https://lunyaticcat.github.io/cards/creatures/Cocolia%20the%20Matushka.jpeg">HON</set>
       <tablerow>2</tablerow>
     </card>
-      <card>
+    <card>
       <name>Knight of the White Orchid</name>
       <text>First strike
         When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle.</text>
