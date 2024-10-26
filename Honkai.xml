@@ -244,6 +244,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
         Whenever Kalpas the Decimation destroys a creature in combat, each player sacrifices a permanent and discards a card.</text>
       <prop>
         <layout>normal</layout>
+        <layout>normal</layout>
         <side>front</side>
         <type>Legendary Creature - Human Alien</type>
         <maintype>Creature</maintype>
@@ -1999,17 +2000,17 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>Cocolia the Matushka</name>
-      <text>When Cocolia the Matushka enters or attacks, target Human creature you control gets X +1/+1 counters, were X is the number of artifacts you control.</text>
+      <text>when Cocolia the Matushka enters or attacks, put X +1/+1 counters on another target human, where X is the number of artifacts you control.</text>
       <prop>
           <format-vintage>legal</format-vintage>
-          <cmc>5</cmc>
+          <cmc>6</cmc>
           <coloridentity>RW</coloridentity>
           <format-duel>legal</format-duel>
           <maintype>Creature</maintype>
-          <manacost>3RW</manacost>
+          <manacost>4RW</manacost>
           <format-legacy>legal</format-legacy>
           <format-commander>legal</format-commander>
-          <colors>WBR</colors>
+          <colors>RW</colors>
           <type>Legendary Creature — Human Soldier</type>
           <layout>normal</layout>
           <format-oathbreaker>legal</format-oathbreaker>
