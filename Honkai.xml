@@ -1442,10 +1442,9 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>Jizo Mitama</name>
-      <text>When Jizo Mitama enters the battlefield, attach it to target creature.
-        Equipped creature gets +2/+1 and has bushido 1 and haste.
-        You control equipped creature.
-        Equip {2}{r}</text>
+      <text>When Jizo Mitama enters, Exile target creature until Jizo Mitama leave the battlefield. It gains all abilities of the exiled creature.
+        Equipped creature has haste and bushido 2.
+        Reconfigure {2}</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
