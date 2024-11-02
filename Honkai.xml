@@ -1396,49 +1396,28 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
       <tablerow>1</tablerow>
     </card>
     <card>
-      <name>White Flower</name>
-      <text>Equipped creature gets +1/+2.
-        Whenever equipped creature deals combat damage, create a 1/1 colorless Human creature token.
-        When 3 token have been created by White Flower, transform it.
-        Equip {2}{w}</text>
+      <name>Abyss Flower</name>
+      <text>Equipped creature gets +1/+1 and Vigilance.
+        Whenever equipped creature attacks, put a life counter on this card.
+        Whenever equipped creature blocks, put a death counter on this card.
+        Remove 3 life counters: Return target creature card from your graveyard to the battlefield.
+        Remove 3 death counters: Destroy target creature.
+        Equip {2}{w}{b}</text>
       <prop>
-        <layout>transform</layout>
+        <layout>normal</layout>
         <side>front</side>
         <type>Legendary Artifact - Equipement</type>
         <maintype>Artifact</maintype>
-        <manacost>1W</manacost>
-        <cmc>2</cmc>
-        <colors>W</colors>
-        <coloridentity>W</coloridentity>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <colors>WB</colors>
+        <coloridentity>WB</coloridentity>
         <format-standard>legal</format-standard>
         <format-commander>legal</format-commander>
         <format-modern>legal</format-modern>
         <format-pauper>legal</format-pauper>
       </prop>
-      <set rarity="mythic" uuid="7ac6bc41-a7f1-4a3f-af12-49e8cc63196d" picurl="https://lunyaticcat.github.io/cards/artifacts/White%20Flower.jpeg">HON</set>
-      <related attach="transform">Black Abyss</related>
-      <related>Human</related>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
-      <name>Black Abyss</name>
-      <text>Equipped creature gets +2/+1 and has wither 2.
-        Whenever equipped creature attacks, you may destroy target creature.
-        If a creature would leave the battlefield due to an ability of Black Abyss, exile it instead.
-        Equip {2}{b}</text>
-      <prop>
-        <layout>transform</layout>
-        <side>back</side>
-        <type>Legendary Artifact - Equipement</type>
-        <maintype>Artifact</maintype>
-        <coloridentity>B</coloridentity>
-        <format-standard>legal</format-standard>
-        <format-commander>legal</format-commander>
-        <format-modern>legal</format-modern>
-        <format-pauper>legal</format-pauper>
-      </prop>
-      <set rarity="mythic" uuid="e1b81b79-2148-4cb3-927f-62b0e2a54e42" picurl="https://lunyaticcat.github.io/cards/artifacts/Black%20Abyss.jpeg">HON</set>
-      <related attach="transform">White Flower</related>
+      <set rarity="mythic" uuid="7ac6bc41-a7f1-4a3f-af12-49e8cc63196d" picurl="https://lunyaticcat.github.io/cards/artifacts/Abyss%20Flower.jpeg">HON</set>
       <tablerow>1</tablerow>
     </card>
     <card>
