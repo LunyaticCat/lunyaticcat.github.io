@@ -977,9 +977,12 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>7 Thunders of Retribution</name>
-      <text>Reach
-        As long as 7 Thunders of Retribution is attached to a creature, spells you cast of that creature's color cost 1 less to cast.
-        Reconfigure {2}</text>
+      <text>When 7 Thunders Retribution enters and at the beginning of your upkeep, choose two —
+        • Equipped creature has reach.
+        • Equipped creature has trample.
+        • Equipped creature has vigilance.
+        • Equipped creature has bushido 1.
+        Equip {2}</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -1402,7 +1405,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
         Whenever equipped creature blocks, put a death counter on this card.
         Remove 3 life counters: Return target creature card from your graveyard to the battlefield.
         Remove 3 death counters: Destroy target creature.
-        Equip {2}{w}{b}</text>
+        Equip {2}</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
