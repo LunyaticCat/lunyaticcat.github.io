@@ -986,13 +986,12 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
       <prop>
         <layout>normal</layout>
         <side>front</side>
-        <type>Legendary Artifact Creature - Equipment</type>
+        <type>Legendary Artifact - Equipment</type>
         <maintype>Artifact</maintype>
-        <manacost>2R</manacost>
+        <manacost>1UR</manacost>
         <cmc>3</cmc>
-        <colors>R</colors>
-        <coloridentity>R</coloridentity>
-        <pt>3/2</pt>
+        <colors>UR</colors>
+        <coloridentity>UR</coloridentity>
         <format-standard>legal</format-standard>
         <format-commander>legal</format-commander>
         <format-modern>legal</format-modern>
