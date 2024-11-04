@@ -1399,12 +1399,12 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>Abyss Flower</name>
-      <text>Equipped creature gets +1/+1 and Vigilance.
-        Whenever equipped creature attacks, put a life counter on this card.
-        Whenever equipped creature blocks, put a death counter on this card.
-        Remove 3 life counters: Return target creature card from your graveyard to the battlefield.
-        Remove 3 death counters: Destroy target creature.
-        Equip {2}</text>
+      <text>Equipped creature gets +1/+1 and has vigilance.
+        Whenever equipped creature is blocked by one or more creatures, put a life counter for each blocking creature on Abyss Flower.
+        Whenever equipped creature blocks, put a death counter on Abyss Flower.
+        Remove 3 life counters from Abyss Flower: Return target creature card from your graveyard to the battlefield.
+        Remove 3 death counters from Abyss Flower: Destroy target creature.
+        Equip {3}</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
