@@ -84,7 +84,7 @@
     </card>
     <card>
       <name>Eden the Gold</name>
-      <text>When Eden the Gold enters the battlefield, each opponent creates a colorless 0/1 Music Note creature token with “Music Note can’t block. During your upkeep, target land you control becomes a Wastes.”
+      <text>When Eden the Gold enters the battlefield, each opponent creates a colorless 0/1 Music Note creature token with “Music Note can’t block. During your upkeep, target non-Wastes land you control becomes a Wastes.”
         Eden’s power and toughness each equal the number of Music Note tokens on the battlefield.</text>
       <prop>
         <layout>normal</layout>
@@ -453,7 +453,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     <card>
       <name>Music Note</name>
       <text>Music Note can’t block.
-        During your upkeep, target land you control becomes a Wastes.</text>
+        During your upkeep, target non-Wastes land you control becomes a Wastes.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
