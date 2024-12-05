@@ -1487,7 +1487,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>Prometheus</name>
-      <text>{T}, Exile Prometheus: You control target player during their next upkeep. During that turn, you may cast spells as though they had flash.</text>
+      <text>{T}, Exile Prometheus: You control target player during their next upkeep. During that turn, may cast their spells as though they had flash.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
