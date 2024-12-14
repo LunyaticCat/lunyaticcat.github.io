@@ -576,7 +576,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>Vill-V the Helix</name>
-      <text>Madness 3R
+      <text>
         As long as Vill-V the Helix is on the battlefield, each artifact is an artifact creature with base power and toughness each equal to its mana value or 1/1, whichever is greater, and is goaded.</text>
       <prop>
         <layout>normal</layout>
