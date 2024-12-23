@@ -83,8 +83,8 @@
     </card>
     <card>
       <name>Eden the Gold</name>
-      <text>When Eden the Gold enters the battlefield, each opponent creates a colorless 0/1 Music Note creature token with “Music Note can’t block. During your upkeep, target non-Wastes land you control becomes a Wastes.”
-        Eden’s power and toughness each equal the number of Music Note tokens on the battlefield.</text>
+      <text>When Eden the Gold enters, each player creates a colorless 0/1 Music Note creature token with "Music Note can't block. During your upkeep, target non-Wastes land you control becomes a Wastes."
+        Eden's power and toughness each equal the number of Music Note tokens on the battlefield.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
