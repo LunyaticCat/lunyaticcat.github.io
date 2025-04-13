@@ -385,21 +385,22 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
       <tablerow>1</tablerow>
     </card>
     <card>
-      <name>Human</name>
+      <name>Human Monk</name>
+      <text>{T}: Add {G}.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
-        <type>Token Creature - Human</type>
+        <type>Token Creature - Human Monk</type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <colors>W</colors>
-        <coloridentity>W</coloridentity>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
         <format-standard>legal</format-standard>
         <format-commander>legal</format-commander>
         <format-modern>legal</format-modern>
         <format-pauper>legal</format-pauper>
       </prop>
-      <set rarity="common" uuid="38964b22-72eb-47db-8cfd-33cb9e3f6a90" picurl="https://lunyaticcat.github.io/cards/etc/Human.jpeg">HON</set>
+      <set rarity="common" uuid="38964b22-72eb-47db-8cfd-33cb9e3f6a90" picurl="https://lunyaticcat.github.io/cards/etc/Human%20Monk.jpeg">HON</set>
       <token>1</token>
       <tablerow>2</tablerow>
     </card>
