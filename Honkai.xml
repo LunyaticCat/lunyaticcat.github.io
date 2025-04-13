@@ -385,7 +385,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
       <tablerow>1</tablerow>
     </card>
     <card>
-      <name>Human Monk</name>
+      <name>Human Monk Token</name>
       <text>{T}: Add {G}.</text>
       <prop>
         <layout>normal</layout>
