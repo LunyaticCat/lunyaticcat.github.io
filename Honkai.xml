@@ -1432,14 +1432,33 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
         <side>front</side>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
-        <manacost>6</manacost>
-        <cmc>6</cmc>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
         <format-standard>legal</format-standard>
         <format-commander>legal</format-commander>
         <format-modern>legal</format-modern>
         <format-pauper>legal</format-pauper>
       </prop>
       <set rarity="mythic" uuid="78952af0-c123-4a4f-b9db-a2856afe97b1" picurl="https://lunyaticcat.github.io/cards/artifacts/Xuanyuan%20Sword.jpeg">HON</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Void Archives</name>
+      <text>At the beginning of your upkeep, you may roll the planar die, also if your opponents play with their hands revealed, you may draw 1 for each opponent.
+        {T}: Until your next turn, this card becomes a copy of target artifact, except it isn’t legendary.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+        <format-modern>legal</format-modern>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="88739657-b46e-4856-bb37-303d8e99f353" picurl="https://lunyaticcat.github.io/cards/artifacts/Void%20Archives.jpeg">HON</set>
       <tablerow>1</tablerow>
     </card>
     <card>
