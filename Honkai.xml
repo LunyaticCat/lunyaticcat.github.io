@@ -156,7 +156,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
         <maintype>Creature</maintype>
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <pt>2/2</pt>
+        <pt>1/2</pt>
         <format-standard>legal</format-standard>
         <format-commander>legal</format-commander>
         <format-modern>legal</format-modern>
@@ -190,7 +190,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     <card>
       <name>Hua the Vicissitude</name>
       <text>First-strike
-        When Hua the Vicissitude would die, exile it instead with 3 time counters on it, if it doesn't have suspend it gains suspend.</text>
+        When Hua the Vicissitude would die, it phases out instead with 3 time counters on it, if it doesn't have suspend it gains suspend.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -489,7 +489,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     <card>
       <name>Project ARK</name>
       <text>Flying
-        Crew 2
+        Crew 1
         When Project ARK deals combat damage to a player, draw a card.
         You may play an additional land each turn.</text>
       <prop>
@@ -1425,8 +1425,8 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     <card>
       <name>Xuanyuan Sword</name>
       <text>Shroud
-        When ~ enters the battlefield and at the beginning of your upkeep, create a token that is a copy of ~.
-        {t}: Sacrifice ~, add one mana of any color.</text>
+        When Xuanyuan Sword enters the battlefield and at the beginning of your upkeep, create a token that is a copy of Xuanyuan Sword.
+        {t}: Sacrifice Xuanyuan Sword, add one mana of any color.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
