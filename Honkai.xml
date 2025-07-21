@@ -239,15 +239,14 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     <card>
       <name>Kalpas the Decimation</name>
       <text>Trample
-        At the beginning of your combat phase, create a 0/1 colorless Ash artifact creature token.
-        Whenever Kalpas the Decimation destroys a creature in combat, each player sacrifices a permanent and discards a card.</text>
+        After blockers are declared, you may have Kalpas gains +X/+X, where X is the number of attacking and blocking creatures. If you do, Kalpas deals X damage to each blocking and attacking creature.</text>
       <prop>
         <layout>normal</layout>
         <layout>normal</layout>
         <side>front</side>
         <type>Legendary Creature - Human Alien</type>
         <maintype>Creature</maintype>
-        <manacost>4BR</manacost>
+        <manacost>3BRR</manacost>
         <cmc>6</cmc>
         <colors>BR</colors>
         <coloridentity>BR</coloridentity>
