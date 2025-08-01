@@ -147,7 +147,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>Griseo the Star</name>
-      <text>Whenever you cast a spell, create a 0/X Canvas creature token, where X is the amount of mana spent to cast that spell, and destroy it when Griseo the Star leave the battlefield. This ability triggers only once each turn.
+      <text>Whenever you cast a spell, if you do not control a Canvas creature, you may create a 0/X Canvas creature token, where X is the amount of mana spent to cast that spell. This ability triggers only once each turn.
         {3}, {T} : Target Canvas creature becomes a copy of another target creature, except it’s a Painting creature and it’s toughness is X, where X is the toughness of the canvas creature.</text>
       <prop>
         <layout>normal</layout>
@@ -239,7 +239,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     <card>
       <name>Kalpas the Decimation</name>
       <text>Trample
-        After blockers are declared, you may have Kalpas gains +X/+X, where X is the number of attacking and blocking creatures. If you do, Kalpas deals X damage to each blocking and attacking creature.</text>
+        Before the combat damage step, if Kalpas attacks or blocks, you may have Kalpas gain +X/+X until end of turn, where X is the number of attacking and blocking creatures. If you do, Kalpas deals X damage to each blocking and attacking creature.</text>
       <prop>
         <layout>normal</layout>
         <layout>normal</layout>
@@ -285,7 +285,8 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     <card>
       <name>Kosma the Daybreak</name>
       <text>Haste, provoke
-        Whenever a creature dealt combat damage by Kosma would die this turn, exile it instead. Kosma has all abilities of creatures exiled this way.</text>
+        Once per turn, when a creature an opponent controls that was dealt damage by a Human you control this turn would die, you may exile it instead.
+        Kosma has all activated and triggered abilities of cards exiled this way.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -313,7 +314,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
         <side>front</side>
         <type>Legendary Creature - Human Snake</type>
         <maintype>Creature</maintype>
-        <manacost>{U/P}BG</manacost>
+        <manacost>1BG</manacost>
         <cmc>3</cmc>
         <colors>BG</colors>
         <coloridentity>UBG</coloridentity>
@@ -511,7 +512,8 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>Quantic Transcendence</name>
-      <text>When Quantic Transcendence enter the battlefield, put a leaf counter on each other non-land permanent you control. When a permanent with a leaf counter leaves the battlefield, return it to the battlefield under its owners control.</text>
+      <text>When Quantic Transcendence enters, put a leaf counter on each other non-land permanent you control.
+        Whenever a permanent you control with a leaf counter on it would leave the battlefield, remove a leaf counter from it instead.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -532,17 +534,16 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     <card>
       <name>Sakura the Setsuna</name>
       <text>Double strike
-        Bushido 1
-        At the end of your post-combat main phase, if Sakura the Setsuna dealt damage to a player, tap up to one target creature that player control, put a stun counter on it.</text>
+        At the end of your post-combat main phase, if Sakura dealt damage to a player this turn, for each untapped Human and/or artifact you control, tap up to one target creature that player controls. Put a stun counter on each of those creatures.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
         <type>Legendary Creature - Human Fox Assassin</type>
         <maintype>Creature</maintype>
-        <manacost>2UUR</manacost>
+        <manacost>2WUR</manacost>
         <cmc>5</cmc>
-        <colors>UR</colors>
-        <coloridentity>UR</coloridentity>
+        <colors>WUR</colors>
+        <coloridentity>WUR</coloridentity>
         <pt>4/4</pt>
         <format-standard>legal</format-standard>
         <format-commander>legal</format-commander>
@@ -554,18 +555,19 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>Su the Bodhi</name>
-      <text>All players may cast spells as though they had Assist.
+      <text>All players may cast spells as though they had assist.
+        Whenever you cast a spell, if no other player helped pay for it, you may have that spell gain cascade and you may planeswalk. This ability triggers only once each turn.
         Your opponents play with their hands revealed.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
         <type>Legendary Creature - Human Doctor</type>
         <maintype>Creature</maintype>
-        <manacost>2GU</manacost>
-        <cmc>4</cmc>
-        <colors>GU</colors>
-        <coloridentity>GU</coloridentity>
-        <pt>3/5</pt>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <colors>WUBRG</colors>
+        <coloridentity>WUBRG</coloridentity>
+        <pt>5/5</pt>
         <format-standard>legal</format-standard>
         <format-commander>legal</format-commander>
         <format-modern>legal</format-modern>
@@ -976,21 +978,18 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>7 Thunders of Retribution</name>
-      <text>When 7 Thunders Retribution enters and at the beginning of your upkeep, choose two —
-        • Equipped creature has reach.
-        • Equipped creature has trample.
-        • Equipped creature has vigilance.
-        • Equipped creature has bushido 1.
+      <text>When 7 Thunders’ Retribution enters the battlefield and at the beginning of your upkeep, choose two abilities from among first strike, bushido 1, reach, lifelink, menace, vigilance, and trample.
+        Equipped creature has the chosen abilities.
         Equip {2}</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
         <type>Legendary Artifact - Equipment</type>
         <maintype>Artifact</maintype>
-        <manacost>1UR</manacost>
+        <manacost>WUR</manacost>
         <cmc>3</cmc>
-        <colors>UR</colors>
-        <coloridentity>UR</coloridentity>
+        <colors>WUR</colors>
+        <coloridentity>WUR</coloridentity>
         <format-standard>legal</format-standard>
         <format-commander>legal</format-commander>
         <format-modern>legal</format-modern>
@@ -1237,7 +1236,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     <card>
       <name>Project STIGMA</name>
       <text>Exile all creatures without a stigmata counter.
-        Suspend 3 {-} {3}{b}
+        Suspend 3 - 2B
         Whenever a time counter is removed from Project STIGMA while it's exiled, every player may put a stigmata counter on a Human creature.</text>
       <prop>
         <layout>normal</layout>
@@ -1317,7 +1316,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>The Great Hibernation</name>
-      <text>When The Great Hibernation enters, all creatures become a 0/1 Cryonized Creature until The Great Hibernation leaves the battlefield.</text>
+      <text>When The Great Hibernation enters the battlefield, each creature loses all abilities and becomes a 0/1 Cryonized creature for as long as The Great Hibernation remains on the battlefield.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -1356,8 +1355,9 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>Judgment Of Shamash</name>
-      <text>Equipped creature gets +5/+0 and has trample.
-        Whenever equipped creature attacks, it deals 5 damage to each creature blocking it. At the beginning of your next end step, destroy equipped creature.
+      <text>Equipped creature gets +5/+0, and has first-strike and trample.
+        At the beginning of your postcombat main phase, if equipped creature dealt combat damage to a player this turn, this card deals 5 damage to each creature that player controls.
+        At the beginning of your next end step, destroy equipped creature.
         Equip 3RR</text>
       <prop>
         <layout>normal</layout>
@@ -1378,9 +1378,9 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>Star of Eden</name>
-      <text>{t}, Choose one :
-        - When a creature with flying attacks, it loses flying until end of turn.
-        - When a creature attacks, it gains flying until end of turn.</text>
+      <text>{T}: Choose one —
+        • Until end of turn, whenever a creature with flying attacks, it loses flying.
+        • Until end of turn, whenever a creature attacks, it gains flying.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -1399,11 +1399,11 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     <card>
       <name>Abyss Flower</name>
       <text>Equipped creature gets +1/+1 and has vigilance.
-        Whenever equipped creature is blocked by one or more creatures, put a life counter for each blocking creature on Abyss Flower.
-        Whenever equipped creature blocks, put a death counter on Abyss Flower.
-        Remove 3 life counters from Abyss Flower: Return target creature card from your graveyard to the battlefield.
-        Remove 3 death counters from Abyss Flower: Destroy target creature.
-        Equip {3}</text>
+        Whenever equipped creature attacks and is blocked by one or more creatures, put a life counter for each blocking creature on Abyss Flower.
+        Whenever equipped creature attacks and isn’t blocked, put a death counter on Abyss Flower.
+        Remove 3 life counters from this card: Return target creature card from your graveyard to the battlefield.
+        Remove 3 death counters from this card: Destroy target creature.
+        Equip 3</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -1444,7 +1444,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     <card>
       <name>Void Archives</name>
       <text>At the beginning of your upkeep, you may roll the planar die, also if your opponents play with their hands revealed, you may draw 1 for each opponent.
-        {T}: Until your next turn, this card becomes a copy of target artifact, except it isn’t legendary.</text>
+        {0}: Until your next turn, this card becomes a copy of target artifact, except it’s not legendary. Activate this ability only once each turn.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -1506,7 +1506,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>Prometheus</name>
-      <text>{T}, Exile Prometheus: You control target player during their next upkeep. During that turn, may cast their spells as though they had flash.</text>
+      <text>{T}, Exile Prometheus: You control target player during their next upkeep. During that turn, you may cast their spells as though they had flash.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -1547,22 +1547,23 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
       <tablerow>2</tablerow>
     </card>
     <card>
-        <name>Avacyn's Collar</name>
-        <text>  Equipped creature gets +1/+0 and has vigilance.
-          Whenever equipped creature dies, if it was a Human, create a 1/1 white Spirit creature token with flying.
-          Equip {2}
+        <name>Coppercoat Vanguard</name>
+        <text>Each other Human you control gets +1/+0 and has ward {1}.
         </text>
         <prop>
             <format-vintage>legal</format-vintage>
             <format-brawl>legal</format-brawl>
-            <cmc>1</cmc>
+            <cmc>2</cmc>
             <format-duel>legal</format-duel>
             <maintype>Artifact</maintype>
-            <manacost>1</manacost>
+            <manacost>1W</manacost>
+            <colors>R</colors>
+            <coloridentity>W</coloridentity>
             <format-legacy>legal</format-legacy>
             <format-commander>legal</format-commander>
             <format-penny>legal</format-penny>
-            <type>Artifact — Equipment</type>
+            <type>Creature — Human Soldier</type>
+            <maintype>Creature</maintype>
             <format-timeless>legal</format-timeless>
             <format-modern>legal</format-modern>
             <layout>normal</layout>
@@ -1571,8 +1572,8 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
             <side>front</side>
             <format-gladiator>legal</format-gladiator>
         </prop>
-        <set rarity="uncommon" uuid="50321d16-90a3-4ded-b6d4-e3446bcf577a" picurl="https://lunyaticcat.github.io/cards/artifacts/Avacyn%E2%80%99s%20Collar%20(Vita%E2%80%99s%20collar).jpeg">HON</set>
-        <tablerow>1</tablerow>
+        <set rarity="uncommon" uuid="50321d16-90a3-4ded-b6d4-e3446bcf577a" picurl="https://lunyaticcat.github.io/cards/creatures/Coppercoat%20Vanguard%20(Kallen%20Kaslana).jpeg">HON</set>
+        <tablerow>2</tablerow>
     </card>
     <card>
         <name>The Prydwen, Steel Flagship</name>
@@ -1867,17 +1868,17 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
         {T}, Remove three cleaning counters from this card: Exile target nonland permanent.</text>
       <prop>
           <format-vintage>legal</format-vintage>
-          <cmc>5</cmc>
+          <cmc>4</cmc>
           <coloridentity>WB</coloridentity>
           <format-duel>legal</format-duel>
           <maintype>Creature</maintype>
-          <manacost>3WB</manacost>
+          <manacost>2WB</manacost>
           <format-premodern>legal</format-premodern>
           <format-legacy>legal</format-legacy>
           <format-predh>legal</format-predh>
           <format-commander>legal</format-commander>
           <colors>WB</colors>
-          <type>Creature — Human</type>
+          <type>Creature — Human Rogue</type>
           <format-paupercommander>legal</format-paupercommander>
           <layout>normal</layout>
           <format-oathbreaker>legal</format-oathbreaker>
@@ -1972,11 +1973,11 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
           <format-vintage>legal</format-vintage>
           <format-pioneer>legal</format-pioneer>
           <format-brawl>legal</format-brawl>
-          <cmc>3</cmc>
+          <cmc>2</cmc>
           <coloridentity>WB</coloridentity>
           <format-duel>legal</format-duel>
           <maintype>Creature</maintype>
-          <manacost>1WB</manacost>
+          <manacost>WB</manacost>
           <format-legacy>legal</format-legacy>
           <format-commander>legal</format-commander>
           <colors>WB</colors>
@@ -1989,7 +1990,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
           <format-oathbreaker>legal</format-oathbreaker>
           <format-historic>legal</format-historic>
           <side>front</side>
-          <pt>2/3</pt>
+          <pt>2/2</pt>
           <format-gladiator>legal</format-gladiator>
           <format-pauper>legal</format-pauper>
       </prop>
@@ -2001,11 +2002,11 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
       <text>When Cocolia the Matushka enters or attacks, put X +1/+1 counters on another target Human creature you control, where X is the number of artifacts you control.</text>
       <prop>
           <format-vintage>legal</format-vintage>
-          <cmc>6</cmc>
+          <cmc>4</cmc>
           <coloridentity>RW</coloridentity>
           <format-duel>legal</format-duel>
           <maintype>Creature</maintype>
-          <manacost>4RW</manacost>
+          <manacost>2RW</manacost>
           <format-legacy>legal</format-legacy>
           <format-commander>legal</format-commander>
           <colors>RW</colors>
@@ -2013,7 +2014,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
           <layout>normal</layout>
           <format-oathbreaker>legal</format-oathbreaker>
           <side>front</side>
-          <pt>1/5</pt>
+          <pt>1/4</pt>
       </prop>
       <set rarity="mythic" uuid="aaf8d2da-8f52-44a0-9bb0-240d722f48af" picurl="https://lunyaticcat.github.io/cards/creatures/Cocolia%20the%20Matushka.jpeg">HON</set>
       <tablerow>2</tablerow>
