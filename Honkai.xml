@@ -1526,24 +1526,24 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>Himeko</name>
-      <text>At your unkeep, put a +1/+1 counter on target Human creature.</text>
+      <name>Himeko, Captain of Squad 5</name>
+      <text>At the beginning of your upkeep, you may distribute a number of +1/+1 counters equal to the number of artifacts you control among other Legendary Human creatures you control.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
-        <type>Creature - Human</type>
+        <type>Legendary Creature - Human</type>
         <maintype>Creature</maintype>
-        <manacost>2R</manacost>
+        <manacost>1GW</manacost>
         <cmc>3</cmc>
-        <colors>R</colors>
-        <coloridentity>R</coloridentity>
-        <pt>3/3</pt>
+        <colors>GW</colors>
+        <coloridentity>GW</coloridentity>
+        <pt>2/3</pt>
         <format-standard>legal</format-standard>
         <format-commander>legal</format-commander>
         <format-modern>legal</format-modern>
         <format-pauper>legal</format-pauper>
       </prop>
-      <set rarity="common" uuid="28396acb-a60c-4afa-a537-41c57c80a1f0" picurl="https://lunyaticcat.github.io/cards/creatures/Himeko.jpeg">HON</set>
+      <set rarity="common" uuid="28396acb-a60c-4afa-a537-41c57c80a1f0" picurl="https://lunyaticcat.github.io/cards/creatures/Himeko,%20Captain%20of%20Squad%205.jpeg">HON</set>
       <tablerow>2</tablerow>
     </card>
     <card>
