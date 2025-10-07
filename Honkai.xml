@@ -1336,8 +1336,8 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>Unnamed Satellite</name>
-      <text>{2}, {T}: Create a colorless Waste basic land token.
-        {1}, {T}: Transform target Waste basic land you control into a basic land of your choice.</text>
+      <text>{2}, {T}: Create a tapped colorless Wastes basic land token.
+        {1}, {T}: Transform target Wastes basic land you control into a basic land of your choice.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -1350,6 +1350,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
         <format-modern>legal</format-modern>
         <format-pauper>legal</format-pauper>
       </prop>
+      <related>Wastes</related>
       <set rarity="rare" uuid="4d3c60c9-2379-435f-a2a1-703d83673914" picurl="https://lunyaticcat.github.io/cards/artifacts/Unnamed%20Satellite.jpeg">HON</set>
       <tablerow>1</tablerow>
     </card>
