@@ -1336,8 +1336,8 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>Unnamed Satellite</name>
-      <text>{2}, {T}: Create a tapped colorless Wastes basic land token.
-        {1}, {T}: Transform target Wastes basic land you control into a basic land of your choice.</text>
+      <text>{T}: Each player may create a tapped colorless Wastes basic land token.
+        {1}, {T}: Transform target Wastes basic land into a basic land of its owner choice.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
