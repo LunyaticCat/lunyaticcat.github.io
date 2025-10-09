@@ -61,7 +61,7 @@
     <card>
       <name>Doctor MEI</name>
       <text>You may look at the top card of your library any time.
-        You may cast a Human or artifact spell from the top of your library once per turn. If you cast a spell this way this turn, that spell cost {1} less to cast.
+        Once each turn, you may cast an artifact or Human spell from the top of your library. If you cast a spell this way this turn, that spell cost {1} less to cast.
         {W}{U}{B}{R}{G}: Search your library for a Human or artifact card and reveal that card. Shuffle your library, then put the card on top of it.</text>
       <prop>
         <layout>normal</layout>
