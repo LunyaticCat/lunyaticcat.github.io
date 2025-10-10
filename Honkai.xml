@@ -1408,7 +1408,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
       <prop>
         <layout>normal</layout>
         <side>front</side>
-        <type>Legendary Artifact - Equipement</type>
+        <type>Legendary Artifact - Equipment</type>
         <maintype>Artifact</maintype>
         <manacost>1WB</manacost>
         <cmc>3</cmc>
@@ -1469,7 +1469,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
       <prop>
         <layout>normal</layout>
         <side>front</side>
-        <type>Legendary Artifact - Equipement</type>
+        <type>Legendary Artifact - Equipment</type>
         <maintype>Artifact</maintype>
         <manacost>5R</manacost>
         <cmc>6</cmc>
