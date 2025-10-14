@@ -1968,8 +1968,8 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>Ana Schariac</name>
-      <text>Whenever another creature you control dies, exile Ana Schariac with three time counters on it. If it doesn’t have suspend, it gains suspend.
-        When you cast this card from exile, its effect become “When this card enters, put an indestructible counter on target creature.”</text>
+      <text>Whenever another creature you control dies, exile Ana Schariac with two time counters on it. If it doesn’t have suspend, it gains suspend.
+        If this spell was cast from exile, it looses all abilities and you may put an indestructible counter on target creature you control.</text>
       <prop>
           <format-vintage>legal</format-vintage>
           <format-pioneer>legal</format-pioneer>
