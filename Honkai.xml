@@ -1945,7 +1945,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
           <format-timeless>legal</format-timeless>
           <format-paupercommander>legal</format-paupercommander>
           <format-modern>legal</format-modern>
-          <layout>normal</layout>
+          <layout>transform</layout>
           <format-explorer>legal</format-explorer>
           <format-oathbreaker>legal</format-oathbreaker>
           <format-historic>legal</format-historic>
@@ -1976,7 +1976,7 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
         <format-timeless>legal</format-timeless>
         <format-paupercommander>legal</format-paupercommander>
         <format-modern>legal</format-modern>
-        <layout>normal</layout>
+        <layout>transform</layout>
         <format-explorer>legal</format-explorer>
         <format-oathbreaker>legal</format-oathbreaker>
         <format-historic>legal</format-historic>
