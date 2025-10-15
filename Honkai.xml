@@ -1950,17 +1950,17 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
           <format-oathbreaker>legal</format-oathbreaker>
           <format-historic>legal</format-historic>
           <side>front</side>
-          <related attach="transform">Ana Schariac, Idealized Savior</related>
           <pt>2/2</pt>
           <format-gladiator>legal</format-gladiator>
           <format-pauper>legal</format-pauper>
       </prop>
       <set rarity="rare" uuid="6f2f92e9-8f7f-455d-9e6f-574c420820de" picurl="https://lunyaticcat.github.io/cards/creatures/Ana%20Schariac,%20Snow%20Lotus%20Leader.jpeg">HON</set>
+      <related attach="transform">Ana Schariac, Idealized Savior</related>
       <tablerow>2</tablerow>
     </card>
     <card>
       <name>Ana Schariac, Idealized Savior</name>
-      <text>When Ana Schariac, Idealized Savior enters, you may put an indestructible counter on target creature you control.{flavor}He saw her smile. Her beautiful face was highlighted by the sun and unfurled before him like a portrait painting.</text>
+      <text>When Ana Schariac, Idealized Savior enters, you may put an indestructible counter on target creature you control.</text>
       <prop>
         <format-vintage>legal</format-vintage>
         <format-pioneer>legal</format-pioneer>
@@ -1981,12 +1981,12 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
         <format-oathbreaker>legal</format-oathbreaker>
         <format-historic>legal</format-historic>
         <side>back</side>
-        <related attach="transform">Ana Schariac, Snow Lotus Leader</related>
         <pt>4/4</pt>
         <format-gladiator>legal</format-gladiator>
         <format-pauper>legal</format-pauper>
       </prop>
       <set rarity="rare" uuid="6f2f92e9-8f7f-455d-9e6f-574c420820de" picurl="https://lunyaticcat.github.io/cards/creatures/Ana%20Schariac,%20Idealized%20Savior.jpeg">HON</set>
+      <related attach="transform">Ana Schariac, Snow Lotus Leader</related>
       <tablerow>2</tablerow>
     </card>
     <card>
