@@ -405,22 +405,6 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>Human Knight Token </name>
-      <text>This creature gets +2/+2 as long as an artifact entered the battlefield under your control this turn.</text>
-      <prop>
-        <colors>W</colors>
-        <type>Token Creature — Human Knight</type>
-        <maintype>Creature</maintype>
-        <cmc>0</cmc>
-        <pt>2/2</pt>
-      </prop>
-      <set rarity="common" uuid="38964b22-72eb-47db-8cfd-33cb9e3f6a90" picurl="https://lunyaticcat.github.io/cards/etc/Human%20Knight.jpeg">HON</set>
-      <reverse-related>The Prydwen, Steel Flagship</reverse-related>
-      <reverse-related count="x" exclude="exclude">The Prydwen, Steel Flagship</reverse-related>
-      <token>1</token>
-      <tablerow>2</tablerow>
-    </card>
-    <card>
       <name>Beast</name>
       <prop>
         <layout>normal</layout>
@@ -1577,31 +1561,6 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
         <tablerow>2</tablerow>
     </card>
     <card>
-        <name>The Prydwen, Steel Flagship</name>
-        <text>Flying
-          Whenever another nontoken artifact enters the battlefield under your control, create a 2/2 white Human Knight creature token with &quot;This creature gets +2/+2 as long as an artifact entered the battlefield under your control this turn.&quot;
-          Crew 2
-        </text>
-        <prop>
-            <format-vintage>legal</format-vintage>
-            <cmc>6</cmc>
-            <coloridentity>W</coloridentity>
-            <format-duel>legal</format-duel>
-            <maintype>Artifact</maintype>
-            <manacost>4WW</manacost>
-            <format-legacy>legal</format-legacy>
-            <format-commander>legal</format-commander>
-            <colors>W</colors>
-            <type>Legendary Artifact — Vehicle</type>
-            <layout>normal</layout>
-            <format-oathbreaker>legal</format-oathbreaker>
-            <side>front</side>
-            <pt>6/6</pt>
-        </prop>
-        <set rarity="rare" uuid="09f16c46-7086-400e-b5e4-9f32f40a087d" picurl="https://lunyaticcat.github.io/cards/artifacts/The%20Prydwen,%20Steel%20Flagship%20(The%20Hyperion,%20Anti-Entropy%E2%80%99s%20Battleship).jpeg">HON</set>
-        <tablerow>1</tablerow>
-    </card>
-    <card>
         <name>Urza's Incubator</name>
         <text>  As Urza's Incubator enters the battlefield, choose a creature type.
           Creature spells of the chosen type cost {2} less to cast.
@@ -1967,9 +1926,9 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>Ana Schariac</name>
-      <text>Whenever another creature you control dies, exile Ana Schariac with two time counters on it. If it doesn’t have suspend, it gains suspend.
-        If this spell was cast from exile, it looses all abilities and you may put an indestructible counter on target creature you control.</text>
+      <name>Ana Schariac, Snow Lotus Leader</name>
+      <text>When Ana Schariac enters, create a 1/1 white Human Soldier creature token.
+        Whenever another creature you control dies, exile Ana Schariac transformed with three time counters on it. If it doesn’t have suspend, it gains suspend.</text>
       <prop>
           <format-vintage>legal</format-vintage>
           <format-pioneer>legal</format-pioneer>
@@ -1978,10 +1937,10 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
           <coloridentity>WB</coloridentity>
           <format-duel>legal</format-duel>
           <maintype>Creature</maintype>
-          <manacost>WB</manacost>
+          <manacost>1B</manacost>
           <format-legacy>legal</format-legacy>
           <format-commander>legal</format-commander>
-          <colors>WB</colors>
+          <colors>B</colors>
           <type>Creature — Human Soldier</type>
           <format-timeless>legal</format-timeless>
           <format-paupercommander>legal</format-paupercommander>
@@ -1991,11 +1950,43 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
           <format-oathbreaker>legal</format-oathbreaker>
           <format-historic>legal</format-historic>
           <side>front</side>
+          <related attach="transform">Ana Schariac, Idealized Savior</related>
           <pt>2/2</pt>
           <format-gladiator>legal</format-gladiator>
           <format-pauper>legal</format-pauper>
       </prop>
-      <set rarity="rare" uuid="6f2f92e9-8f7f-455d-9e6f-574c420820de" picurl="https://lunyaticcat.github.io/cards/creatures/Ana%20Schariac.jpeg">HON</set>
+      <set rarity="rare" uuid="6f2f92e9-8f7f-455d-9e6f-574c420820de" picurl="https://lunyaticcat.github.io/cards/creatures/Ana%20Schariac,%20Snow%20Lotus%20Leader.jpeg">HON</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ana Schariac, Idealized Savior</name>
+      <text>When Ana Schariac, Idealized Savior enters, you may put an indestructible counter on target creature you control.{flavor}He saw her smile. Her beautiful face was highlighted by the sun and unfurled before him like a portrait painting.</text>
+      <prop>
+        <format-vintage>legal</format-vintage>
+        <format-pioneer>legal</format-pioneer>
+        <format-brawl>legal</format-brawl>
+        <cmc>0</cmc>
+        <coloridentity>WB</coloridentity>
+        <format-duel>legal</format-duel>
+        <maintype>Creature</maintype>
+        <format-legacy>legal</format-legacy>
+        <format-commander>legal</format-commander>
+        <colors>WB</colors>
+        <type>Creature — Human Soldier</type>
+        <format-timeless>legal</format-timeless>
+        <format-paupercommander>legal</format-paupercommander>
+        <format-modern>legal</format-modern>
+        <layout>normal</layout>
+        <format-explorer>legal</format-explorer>
+        <format-oathbreaker>legal</format-oathbreaker>
+        <format-historic>legal</format-historic>
+        <side>back</side>
+        <related attach="transform">Ana Schariac, Snow Lotus Leader</related>
+        <pt>4/4</pt>
+        <format-gladiator>legal</format-gladiator>
+        <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="6f2f92e9-8f7f-455d-9e6f-574c420820de" picurl="https://lunyaticcat.github.io/cards/creatures/Ana%20Schariac,%20Idealized%20Savior.jpeg">HON</set>
       <tablerow>2</tablerow>
     </card>
     <card>
