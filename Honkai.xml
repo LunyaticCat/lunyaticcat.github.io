@@ -329,8 +329,8 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     </card>
     <card>
       <name>Pardofelis the Reverie</name>
-      <text>Reach
-        {3}, {T}: Exile the top card of target opponent library, then each opponent bid mana. You start the bidding with a bid of {0}. The player who bids the most may cast the exiled card without paying its mana cost. Create a number of Treasure tokens equal to the highest bid.</text>
+      <text>{3}, {T}: Exile the top card of target opponent library. Each other player may bid mana for control of the card.
+        In turn order, each other player may top the high bid. The bidding ends if the high bid stands. The high bidder can pay {X}, where X is equal to the high bid. If they do, they may play the card from exile without paying its mana cost, and you create a number of Treasure tokens equal to the high bid. Otherwise, they lose life equals to 2 times the bid amount.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
