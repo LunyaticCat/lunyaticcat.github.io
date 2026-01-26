@@ -1492,17 +1492,17 @@ When Elysia the Ego enters the battlefield, choose an opponent. As long as there
     <card>
       <name>Prometheus, The Honkai Will</name>
       <text>{i}Begin the Samsara{/i} — When a Human or artifact enters, each opponent mills a card.
-        {i}Repeat the Samsara{/i} — Exile Prometheus: target opponent casts at random each nonland card from their graveyard without paying its mana cost. Those spells can’t target you or permanents you control. Each creature that enters this way is goaded for the rest of the game.</text>
+        {i}Repeat the Samsara{/i} — {5}, Exile Prometheus: target opponent casts at random each nonland card from their graveyard without paying its mana cost. Those spells can’t target you or permanents you control. Each creature that enters this way is goaded for the rest of the game.</text>
       <prop>
         <layout>normal</layout>
         <side>front</side>
         <type>Legendary Artifact Creature - Human Scientist</type>
         <maintype>Creature</maintype>
-        <manacost>4UB</manacost>
-        <cmc>6</cmc>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
         <colors>UB</colors>
         <coloridentity>UB</coloridentity>
-        <pt>4/4</pt>
+        <pt>3/2</pt>
         <format-standard>legal</format-standard>
         <format-commander>legal</format-commander>
         <format-modern>legal</format-modern>
